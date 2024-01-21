@@ -19,10 +19,30 @@ layout: default
         <h2 id="{{ tag | cgi_escape }}">{{ tag }}</h2>
         <ul class="archive-post-list">
         {% for post in site.tags[tag] %}
-          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="archive-meta"> — <time class="archive-date" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time></span></li>
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="archive-meta"> — <!--<time class="archive-date" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time>-->
+      <time class="archive-date" datetime="{{ post.date | date: "%Y-%m-%d" }}">
+{% assign m = post.date | date: "%-m" %}
+{{ post.date | date: "%-d" }} de
+{% case m %}
+  {% when '1' %}enero
+  {% when '2' %}febrero
+  {% when '3' %}marzo
+  {% when '4' %}abril
+  {% when '5' %}mayo
+  {% when '6' %}junio
+  {% when '7' %}julio
+  {% when '8' %}agosto
+  {% when '9' %}septiembre
+  {% when '10' %}octubre
+  {% when '11' %}noviembre
+  {% when '12' %}diciembre
+{% endcase %} de
+{{ post.date | date: "%Y" }}
+      </time>
+            </span></li>
         {% endfor %}
         </ul><!-- .archive-post-list -->
-        <p><a href="#top" class="archive-top-link">Return to top &#8593;</a></p>
+        <p><a href="#top" class="archive-top-link">Volver arriba &#8593;</a></p>
       {% endfor %}
     </div><!-- .post-content -->
   </article><!-- .post -->

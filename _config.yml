@@ -31,13 +31,13 @@ navigation:
   - text: Sobre mí
     url: /
   - text: Servicios lingüísticos
-    url: /servicios-linguisticos/
+    url: /servicios-linguisticos
   - text: Investigación
-    url: /investigacion/
+    url: /investigacion
   - text: No termines los libros
     url: /no-termines-los-libros/
   - text: Índice
-    url: /indice/
+    url: /indice
 
 # The shortname for your Disqus site to enable comments.
 #disqus: justgoodthemes

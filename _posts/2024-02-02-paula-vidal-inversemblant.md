@@ -12,7 +12,7 @@ tags: [Paula Vidal, Estrella Polar Editorial, novela juvenil]
 
 @paulavidal_books #Inversemblant @estrellapolareditorial #Inverosímil @kidsplanetlibros #novelajuvenil
 
-👩🦳 L’àvia del Daniel és increïble, irradia llum, i els seus nets l’estimen amb devoció. Quan l’Alzheimer apareix a les seves vides, el Daniel, convençut que encara li poden passar coses bones, emprèn amb urgència el repte que l’àvia pugui fer totes les coses que li han quedat per fer.
+👩🏽‍🦳 L’àvia del Daniel és increïble, irradia llum, i els seus nets l’estimen amb devoció. Quan l’Alzheimer apareix a les seves vides, el Daniel, convençut que encara li poden passar coses bones, emprèn amb urgència el repte que l’àvia pugui fer totes les coses que li han quedat per fer.
 
 Amb un llenguatge fresc i juvenil, amb imatges plàstiques que ens transporten a l’adolescència i les seves emocions i, sobretot, amb una gran tendresa, Paula Vidal dibuixa dos personatges rodons que s’escapen de les pàgines del llibre, que corren els seus propis riscos sense retre comptes a ningú i que ens recorden que quan el camí es fa pesat ens tenim els uns als altres per compartir la càrrega.
 

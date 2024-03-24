@@ -18,4 +18,6 @@ En ‘Caliente’, Luna Miguel, lectora lúcida y voraz, recoge y reivindica voc
 
 Al consultar las presentaciones de ‘Caliente’ y entrevistas a la autora me ha sorprendido que le pregunten si no le da pudor mostrar su intimidad: he leído muchas obras escritas por hombres que incluyen fragmentos íntimos y nunca he visto que al autor le pregunten si se avergüenza de ello. Yo misma escribí hace años un pequeño poemario y un chico me hizo sentir avergonzada por haber mostrado mi vulnerabilidad y mi deseo en mis poemas. Luna recoge una pregunta de Chris Kraus, “¿Por qué todos piensan que las mujeres se degradan a sí mismas cuando exponen las condiciones de su degradación?”, que para mí se ha convertido en escudo.
 
->> Continúa en comentarios >>
+Cuando fui a comprar ‘Caliente’, la librera, no sé si lo vio en mi cara de ilusión, me preguntó si soy fan de Luna Miguel. Por supuesto: me hice adicta a su fotolog, sus versos despertaron mis propios versos, iba a escucharla recitar poemas y me estremecían sus palabras, pero también las ganas de ver de cerca sus tatuajes. Gracias a ella he descubierto a muchas otras escritoras que me han ensanchado el horizonte, que me han enseñado a tomarme en serio nuestra propia inteligencia. Luna pone voz a lo que muchas sentimos, su corazón roto también es nuestro corazón roto y su placer es también nuestro placer.
+
+Aprovecho Sant Jordi, día del libro y del amor, para recomendar ‘Caliente’, un libro de libros y un libro de amor, sobre todo, de amor propio. 📖🌹

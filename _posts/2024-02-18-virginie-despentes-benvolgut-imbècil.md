@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Virginie Despentes, <i>Benvolgutimbecil</i>"
+title: "Virginie Despentes, <i>Benvolgut imbècil</i>"
 description: "TODO"
 date: 2024-02-18
 feature_image: images/posts/benvolgutimbecil.jpg

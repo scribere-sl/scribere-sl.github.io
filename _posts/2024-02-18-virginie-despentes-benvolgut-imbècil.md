@@ -3,7 +3,7 @@ layout: post
 title: "Virginie Despentes, <i>Benvolgutimbecil</i>"
 description: "TODO"
 date: 2024-02-18
-feature_image: images/posts/benvolgut imbècil.jpg
+feature_image: images/posts/benvolgutimbecil.jpg
 tags: [Virginie Despentes, Sembra Llibres, novela epistolar, teoría y ensayo feminista]
 ---
 

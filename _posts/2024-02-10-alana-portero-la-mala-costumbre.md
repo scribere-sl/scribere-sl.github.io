@@ -2,8 +2,8 @@
 layout: post
 title: "Alana Portero, <i>La mala costumbre</i>"
 description: "TODO"
-date: 2024-08-16
-feature_image: images/posts/mala costumbre.jpg
+date: 2024-02-10
+feature_image: images/posts/malacostumbre.jpg
 tags: [Alana Portero, Seix Barral, narrativa, El Club de la Tribu]
 ---
 

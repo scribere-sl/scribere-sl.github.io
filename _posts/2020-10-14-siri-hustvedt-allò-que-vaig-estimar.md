@@ -4,7 +4,7 @@ title: "Siri Hustvedt, <i>Allò que vaig estimar</i>"
 description: "TODO"
 date: 2020-10-14
 feature_image: images/posts/2020-10-14-121387178_352451702666379_4119502983603057931_n_17882822215785995.jpg
-tags: [SiriHustvedt, AngleEditorial, narrativa]
+tags: [Siri Hustvedt, Angle Editorial, narrativa]
 ---
 
 «Per a ell les històries eren com la sang que circula dins d’un cos: camins d’una vida.

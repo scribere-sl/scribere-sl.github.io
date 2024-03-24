@@ -4,7 +4,7 @@ title: "Rocío Quillahuaman, <i>Marrón</i>"
 description: "TODO"
 date: 2024-01-07
 feature_image: images/posts/2024-01-07-417135275_744877130442520_3753918588822317825_n_18055891531520062.heic
-tags: [RocíoQuillahuaman, BlackieBooks, narrativa]
+tags: [Rocío Quillahuaman, Blackie Books, narrativa]
 ---
 
 «Y las historias de gente como yo, chicas jóvenes marrones, quedan siempre apartadas, encasilladas como diferentes y marginadas como nosotras mismas»

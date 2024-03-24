@@ -4,7 +4,7 @@ title: "Betty Smith, <i>Creix un arbre a Brooklyn</i>"
 description: "TODO"
 date: 2021-05-02
 feature_image: images/posts/2021-05-02-181184049_775297493147060_8129013575690907118_n_17901108403849947.jpg
-tags: [BettySmith, LAltraEditorial, narrativa]
+tags: [Betty Smith, L'Altra Editorial, narrativa]
 ---
 
 «Una pàgina diària de cada llibre, aquesta és la ració per a la teva filla, encara que no entenguis totes les paraules ni sàpigues pronunciar-les bé. Així la nena coneixerà coses meravelloses i sabrà que aquestes cases de Williamsburg no són tot el món»

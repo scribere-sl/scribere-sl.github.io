@@ -4,7 +4,7 @@ title: "Katixa Aguirre, <i>Las madres no</i>"
 description: "TODO"
 date: 2020-12-06
 feature_image: images/posts/2020-12-06-129737478_396425835039328_4476698943738660281_n_17862538367276004.jpg
-tags: [KatixaAguirre, Tránsitoeditorial, narrativa, maternidadOno]
+tags: [Katixa Aguirre, Tránsito editorial, narrativa, maternidad o no]
 ---
 
 «Pero, en ocasiones, el mal simplemente está ahí: el lado oscuro del ser humano en su forma más pura y destilada»

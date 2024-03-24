@@ -4,7 +4,7 @@ title: "Raven Leilani, <i>Brillo</i>"
 description: "TODO"
 date: 2023-02-12
 feature_image: images/posts/2023-02-12-330633933_1438390513595626_1687737538735822010_n_17860854806891575.webp
-tags: [RavenLeilani, BlackieBooks, narrativa]
+tags: [Raven Leilani, Blackie Books, narrativa]
 ---
 
 «Él cree que somos iguales. No tiene ni la más remota idea del esfuerzo que estoy haciendo»

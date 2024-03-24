@@ -4,7 +4,7 @@ title: "Jeanette Winterson, <i>¿Por qué ser feliz cuando puedes ser normal? </
 description: "TODO"
 date: 2019-01-02
 feature_image: images/posts/2019-01-02-47689721_126287668403093_4020324502538355051_n_17953532251216018.jpg
-tags: [JeanetteWinterson, Lumen, narrativa, teoríayensayofeminista]
+tags: [Jeanette Winterson, Lumen, narrativa, teoría y ensayo feminista]
 ---
 
 «-Jeanette, ¿puedes decirme por qué?

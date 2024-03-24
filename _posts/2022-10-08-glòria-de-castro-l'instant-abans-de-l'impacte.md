@@ -4,7 +4,7 @@ title: "Glòria de Castro, <i>L'instant abans de l'impacte</i>"
 description: "TODO"
 date: 2022-10-08
 feature_image: images/posts/2022-10-08-310786919_384935613853546_6646920827135108332_n_17842601717868145.webp
-tags: [GlòriadeCastro, EdicionsdelPeriscopi, narrativa]
+tags: [Glòria de Castro, Edicions del Periscopi, narrativa]
 ---
 
 «Potser cal que les coses caiguin, que col·lapsin. Diuen que l’instant just abans de l’impacte és el moment en què se’t revela tota la veritat»

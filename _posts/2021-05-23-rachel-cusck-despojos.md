@@ -4,7 +4,7 @@ title: "Rachel Cusck, <i>Despojos</i>"
 description: "TODO"
 date: 2021-05-23
 feature_image: images/posts/2021-05-23-190825674_312053937197813_1716243330886387882_n_17858403401541976.jpg
-tags: [RachelCusck, LibrosdelPeriscopio, narrativa, teoríayensayofeminista]
+tags: [Rachel Cusck, Libros del Periscopio, narrativa, teoría y ensayo feminista]
 ---
 
 «Ahora creo en el caos: es en la normalidad en lo que he perdido la fe»

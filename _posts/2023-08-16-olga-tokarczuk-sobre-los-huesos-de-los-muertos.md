@@ -4,7 +4,7 @@ title: "Olga Tokarczuk, <i>Sobre los huesos de los muertos</i>"
 description: "TODO"
 date: 2023-08-16
 feature_image: images/posts/2023-08-16-367564516_1006305947188724_8326742135934806387_n_17880991988920648.heic
-tags: [OlgaTokarczuk, Siruela, narrativa]
+tags: [Olga Tokarczuk, Siruela, narrativa]
 ---
 
 «¿Por qué deberíamos ser útiles, y con respecto a qué? ¿Quién organizó el mundo así y con qué derecho? ¿Acaso un cardo no tiene derecho a la vida, o un ratón que se come el grano de los almacenes, o las abejas y los zánganos, las malas hierbas y las rosas? ¿Quién tuvo el descaro de juzgar quién es mejor?»

@@ -4,7 +4,7 @@ title: "Laura Llevadot, <i>Mi herida existía antes que yo</i>"
 description: "TODO"
 date: 2023-12-17
 feature_image: images/posts/2023-12-17-411283732_1464299467471360_8572489361637154669_n_18000086945351768.heic
-tags: [LauraLlevadot, Tusquets, teoríayensayofeminista]
+tags: [Laura Llevadot, Tusquets, teoría y ensayo feminista]
 ---
 
 «“Mi herida existía antes que yo” aquí quiere decir esto: que un dispositivo político nos precede y nos hiere, y que lo mínimo que deberíamos hacer para estar a su altura es tratar de pensarlo. Aunque solo sea por las heridas que, a ti y a mí, seas lo que creas ser, nos ha ocasionado»

@@ -4,7 +4,7 @@ title: "Laia Aguilar, <i>Pluja d'estels</i>"
 description: "TODO"
 date: 2020-09-30
 feature_image: images/posts/2020-09-30-120276880_192608532247287_1915074317927176316_n_17866439312076702.jpg
-tags: [LaiaAguilar, Destino, narrativa]
+tags: [Laia Aguilar, Destino, narrativa]
 ---
 
 «No em diguis que puc ser feliç contemplant una puta posta de sol, o el mar, o tastant uns bombons de praliné»

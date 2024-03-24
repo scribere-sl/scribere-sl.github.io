@@ -4,7 +4,7 @@ title: "Mary Beard, <i>La veu i el poder de les dones</i>"
 description: "TODO"
 date: 2020-11-25
 feature_image: images/posts/2020-11-25-126282768_399310781267389_358910574615329400_n_17945390572388823.jpg
-tags: [MaryBeard, Arcàdia, teoríayensayofeminista]
+tags: [Mary Beard, Arcàdia, teoría y ensayo feminista]
 ---
 
 «Si no es percep que les dones estiguin plenament integrades dins de les estructures de poder, ¿no ens caldria més aviat redefinir el poder, i no les dones?»

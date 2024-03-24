@@ -4,7 +4,7 @@ title: "Luna Miguel, <i>Caliente</i>"
 description: "TODO"
 date: 2021-04-23
 feature_image: images/posts/2021-04-23-175988271_1148146038945652_375487556241788918_n_17905517389753757.jpg
-tags: [LunaMiguel, Lumen, ensayo]
+tags: [Luna Miguel, Lumen, ensayo]
 ---
 
 «Y entonces me pregunto si el estado primario del corazón quizá sea esa grieta, esa cuchillada; y si el trabajo verdadero de la vida —y del placer, y de la escritura— consiste en inventar una masilla pegajosa, densa, con la que poco a poco volver a ensamblarlo»

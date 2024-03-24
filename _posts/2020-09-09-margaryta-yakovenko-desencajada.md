@@ -4,7 +4,7 @@ title: "Margaryta Yakovenko, <i>Desencajada</i>"
 description: "TODO"
 date: 2020-09-09
 feature_image: images/posts/2020-09-09-119058822_791565338326810_4040985846248844729_n_17878240396836953.jpg
-tags: [MargarytaYakovenko, CaballodeTroya, narrativa]
+tags: [Margaryta Yakovenko, Caballo de Troya, narrativa]
 ---
 
 «Hasta mis sueños saben el lugar exacto al que pertenezco»

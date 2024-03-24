@@ -4,7 +4,7 @@ title: "Annie Ernaux, <i>El acontecimiento</i>"
 description: "TODO"
 date: 2020-12-12
 feature_image: images/posts/2020-12-12-130299507_870655423762872_6902973373435458264_n_17846171963492399.jpg
-tags: [AnnieErnaux, Tusquets, narrativa]
+tags: [Annie Ernaux, Tusquets, narrativa]
 ---
 
 «El hecho de haber vivido algo, sea lo que sea, da el derecho imprescriptible de escribir sobre ello. No existe una verdad inferior. Y si no cuento esta experiencia hasta el final, contribuiré a oscurecer la realidad de las mujeres y me pondré del lado de la dominación masculina del mundo.»

@@ -4,7 +4,7 @@ title: "Vivian Gornick, <i>Vincles ferotges. La dona singular i la ciutat</i>"
 description: "TODO"
 date: 2021-07-06
 feature_image: images/posts/2021-07-06-210909975_917263965520267_7759069174350299268_n_17879902637405749.jpg
-tags: [VivianGornick, LAltraEditorial, ensayo, maternidadOno]
+tags: [Vivian Gornick, L'Altra Editorial, ensayo, maternidad o no]
 ---
 
 «És veritat que no me n’he sortit. Ni en l’amor ni en la feina [...]. ¿No pots reconeixe’m el mèrit d’haver sabut trobar una bona idea, com ara que hem d’intentar viure la nostra pròpia vida? ¿Això no compta?»

@@ -4,7 +4,7 @@ title: "Silvia Federici, <i>Calibán y la bruja, mujeres, cuerpo y acumulación 
 description: "TODO"
 date: 2022-09-02
 feature_image: images/posts/2022-09-02-304743325_791777275582130_947267939286726411_n_17957515792982219.webp
-tags: [SilviaFederici, TraficantesdeSueños, teoríayensayofeminista]
+tags: [Silvia Federici, Traficantes de Sueños, teoría y ensayo feminista]
 ---
 
 «El capitalismo hace de la adquisición “el objetivo final de la vida”, en lugar de tratarla como medio para satisfacer nuestras necesidades»

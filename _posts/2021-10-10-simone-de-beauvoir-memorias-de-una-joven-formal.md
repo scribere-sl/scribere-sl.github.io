@@ -4,7 +4,7 @@ title: "Simone de Beauvoir, <i>Memorias de una joven formal</i>"
 description: "TODO"
 date: 2021-10-10
 feature_image: images/posts/2021-10-10-245153723_236065468396746_8447679721395280677_n_17905002815293109.webp
-tags: [SimonedeBeauvoir, Edhasa, narrativa]
+tags: [Simone de Beauvoir, Edhasa, narrativa]
 ---
 
 «En la realidad no me sometía a nadie: era, y seguiría siendo siempre, mi propia dueña»

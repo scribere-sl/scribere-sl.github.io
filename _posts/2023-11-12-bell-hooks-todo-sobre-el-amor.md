@@ -4,7 +4,7 @@ title: "bell hooks, <i>Todo sobre el amor</i>"
 description: "TODO"
 date: 2023-11-12
 feature_image: images/posts/2023-11-12-401148130_894744195699828_6567133040137234873_n_18039071371583181.heic
-tags: [bellhooks, Paidós, teoríayensayofeminista]
+tags: [bell hooks, Paidós, teoría y ensayo feminista]
 ---
 
 «Me recuerda lo mucho que anhelamos el amor y que lo buscamos cuando ya no esperamos que sea realmente posible encontrarlo»

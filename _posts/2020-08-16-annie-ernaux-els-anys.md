@@ -4,7 +4,7 @@ title: "Annie Ernaux, <i>Els anys</i>"
 description: "TODO"
 date: 2020-08-16
 feature_image: images/posts/2020-08-16-117518848_165718878424070_3985232887274635310_n_18040327597271164.jpg
-tags: [AnnieErnaux, AngleEditorial, narrativa]
+tags: [Annie Ernaux, Angle Editorial, narrativa]
 ---
 
 «Existir és beure’s a un mateix sense tenir set.»

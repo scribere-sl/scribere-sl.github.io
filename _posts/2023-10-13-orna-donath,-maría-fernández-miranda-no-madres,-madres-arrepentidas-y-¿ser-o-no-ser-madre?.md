@@ -4,7 +4,7 @@ title: "Orna Donath, María Fernández-Miranda, <i>No madres, Madres arrepentida
 description: "TODO"
 date: 2023-10-13
 feature_image: images/posts/2023-10-13-387815994_291766803732149_6145261966156578974_n_17981420561314701.heic
-tags: [OrnaDonath, Reservoir, MapasColectivos, PlazayJanés, maternidadOno, maternidadOno]
+tags: [Orna Donath, Reservoir, Mapas Colectivos, Plaza y Janés, maternidad o no, maternidad o no]
 ---
 
 «Nos dicen que la maternidad es la pieza que falta en nuestras vidas, que, si no eres madre, no estás completa y que no eres una mujer de verdad hasta que no has tenido un hijo. Tienes que realizarte a través de la maternidad y esto es algo que nos va a pasar a todas. Siempre se nos dice que la maternidad tiene un final feliz; es la única versión que nos dan»

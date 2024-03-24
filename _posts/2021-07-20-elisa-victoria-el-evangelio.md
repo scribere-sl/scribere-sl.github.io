@@ -4,7 +4,7 @@ title: "Elisa Victoria, <i>El Evangelio</i>"
 description: "TODO"
 date: 2021-07-20
 feature_image: images/posts/2021-07-20-219577623_363033275167427_2578977963854814148_n_17926799212641688.jpg
-tags: [ElisaVictoria, BlackieBooks, narrativa]
+tags: [Elisa Victoria, Blackie Books, narrativa]
 ---
 
 «Los niños revoloteaban a mi alrededor como pajaritos y se me olvidaba que tendríamos que morir entre angustia y dolor algún día. Durante aquella media hora brillaba el sol o brillaban las nubes, estábamos juntos y las cicatrices se me cubrían de tiritas»

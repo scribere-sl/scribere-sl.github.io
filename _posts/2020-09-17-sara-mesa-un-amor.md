@@ -4,7 +4,7 @@ title: "Sara Mesa, <i>Un amor</i>"
 description: "TODO"
 date: 2020-09-17
 feature_image: images/posts/2020-09-17-119473112_3793484340679609_1728802610805205960_n_17853748490228386.jpg
-tags: [SaraMesa, Anagrama, narrativa]
+tags: [Sara Mesa, Anagrama, narrativa]
 ---
 
 «Quizá es mejor no penetrar en el misterio, no tratar de entenderlo, para evitar que se corrompa. El malestar de la felicidad es una idea que le ronda ahora con insistencia: un tipo de felicidad que contiene en sí misma la semilla de su propia destrucción»

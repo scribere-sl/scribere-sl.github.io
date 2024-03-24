@@ -4,7 +4,7 @@ title: "Nuria Varela, <i>Feminismo 4.0. La cuarta ola</i>"
 description: "TODO"
 date: 2022-03-08
 feature_image: images/posts/2022-03-08-275414896_631280734599904_5369370307730560843_n_17932913048060988.webp
-tags: [NuriaVarela, EdicionesB, teoríayensayofeminista]
+tags: [Nuria Varela, Ediciones B, teoría y ensayo feminista]
 ---
 
 «El feminismo es polifónico, el sonido de sus múltiples voces se oye, simultáneamente, en todos los rincones del mundo, en distintos tonos y registros. Una melodía con diversas letras, pero con la misma música, la de un proyecto colectivo y emancipador al que nada humano le es ajeno»

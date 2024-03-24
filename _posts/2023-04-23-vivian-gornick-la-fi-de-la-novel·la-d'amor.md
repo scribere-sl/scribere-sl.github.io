@@ -4,7 +4,7 @@ title: "Vivian Gornick, <i>La fi de la novel·la d'amor</i>"
 description: "TODO"
 date: 2023-04-23
 feature_image: images/posts/2023-04-23-342387111_972862567066235_8065337641356780245_n_17975148257324623.heic
-tags: [VivianGornick, LAltraEditorial, teoríayensayofeminista]
+tags: [Vivian Gornick, L'Altra Editorial, teoría y ensayo feminista]
 ---
 
 «Si avui dia poses l’amor romàntic al centre d’una novel·la, qui creurà que en la seva recerca els personatges arribaran a entendre res d’important?»

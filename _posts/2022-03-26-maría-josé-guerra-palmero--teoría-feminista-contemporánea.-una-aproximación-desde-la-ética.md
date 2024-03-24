@@ -4,7 +4,7 @@ title: "María José Guerra Palmero , <i>Teoría feminista contemporánea. Una a
 description: "TODO"
 date: 2022-03-26
 feature_image: images/posts/2022-03-26-277293543_379282980720212_2885295383272906941_n_18011563345391434.webp
-tags: [MaríaJoséGuerraPalmero, EditorialComplutense, teoríayensayofeminista]
+tags: [María José Guerra Palmero, Editorial Complutense, teoría y ensayo feminista]
 ---
 
 «La penetración masiva de mujeres, mejor si son feministas, a un ámbito puede permitir cuestionar las reglas consensuadas con los “socios fundadores” del mismo, abriendo un nuevo periodo constituyente en el que se revisen los valores que las impulsan y las rutinas institucionales adecuadas. De este modo, se puede sugerir una reestructuración.»

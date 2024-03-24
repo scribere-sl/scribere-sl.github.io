@@ -4,7 +4,7 @@ title: "Maggie O'Farrell, <i>El retrat de matrimoni</i>"
 description: "TODO"
 date: 2023-07-01
 feature_image: images/posts/2023-07-01-357644588_1195406608524347_7024666190098229772_n_17978885495339910.heic
-tags: [MaggieOFarrell, LAltraEditorial, narrativa]
+tags: [Maggie O'Farrell, L'Altra Editorial, narrativa]
 ---
 
 «El seu pare li hauria trobat un partit avantatjós perquè, al cap i a la fi, era per això que l’havien criat: per casar-se, per utilitzar-la com a baula en les cadenes de poder, perquè tingués descendència amb homes com l’Alfonso»

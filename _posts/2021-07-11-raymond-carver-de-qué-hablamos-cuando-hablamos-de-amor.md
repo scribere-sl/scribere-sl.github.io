@@ -4,7 +4,7 @@ title: "Raymond Carver, <i>De qué hablamos cuando hablamos de amor</i>"
 description: "TODO"
 date: 2021-07-11
 feature_image: images/posts/2021-07-11-213218025_504515927482077_2990512634294647579_n_18239582197005660.jpg
-tags: [RaymondCarver, Anagrama, narrativa]
+tags: [Raymond Carver, Anagrama, narrativa]
 ---
 
 «Creo que en el amor no somos más que principiantes»

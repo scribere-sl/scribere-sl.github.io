@@ -4,7 +4,7 @@ title: "Maria Mies, <i>Patriarcado y acumulación a escala mundial</i>"
 description: "TODO"
 date: 2022-12-30
 feature_image: images/posts/2022-12-30-322342963_212609817823136_6536226267696789977_n_17946763949451499.webp
-tags: [MariaMies, TraficantesdeSueños, teoríayensayofeminista]
+tags: [Maria Mies, Traficantes de Sueños, teoría y ensayo feminista]
 ---
 
 «El progreso del gran hombre europeo está basado en la subordinación y la explotación de sus propias mujeres, en la explotación y destrucción de la naturaleza y en la explotación y la subordinación de otros pueblos y de sus tierras. (…) El progreso de unos supone la regresión de los otros. El ascenso de unos supone la caída de otros. La riqueza de unos supone la pobreza de otros»

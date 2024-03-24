@@ -4,7 +4,7 @@ title: "Annie Ernaux, <i>Memòria de noia</i>"
 description: "TODO"
 date: 2022-10-23
 feature_image: images/posts/2022-10-23-312327119_2347887025387838_3192488832128524328_n_17864214524799294.webp
-tags: [AnnieErnaux, AngleEditorial, narrativa]
+tags: [Annie Ernaux, Angle Editorial, narrativa]
 ---
 
 «¿Quina creença, sinó que la memòria és una forma de coneixement? ¿I quin desig —que supera el de comprendre— rau en aquest acarnissament per trobar, entre els milers de noms, verbs i adjectius, aquells que donaran la certesa —la il·lusió— d’haver assolit el nivell més elevat de la realitat, sinó l’esperança que almenys existeixi una gota de similitud entre aquesta noia, l’Annie D, i qualsevol altra?»

@@ -4,7 +4,7 @@ title: "Lucy Caldwell, <i>Intimitats</i>"
 description: "TODO"
 date: 2023-07-30
 feature_image: images/posts/2023-07-30-363509520_742425310976088_1918996353913149954_n_17962076084619026.heic
-tags: [LucyCaldwell, UniversLlibres, narrativa]
+tags: [Lucy Caldwell, Univers Llibres, narrativa]
 ---
 
 «Hi ha tantes coses que necessitem aprendre, i tu també hi ets per ensenyar-me’n, i aprenem juntes. Però en el fons, sabem.»

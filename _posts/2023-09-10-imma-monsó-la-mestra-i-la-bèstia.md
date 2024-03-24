@@ -4,7 +4,7 @@ title: "Imma Monsó, <i>La mestra i la Bèstia</i>"
 description: "TODO"
 date: 2023-09-10
 feature_image: images/posts/2023-09-10-376838057_270324649256207_302430686693976573_n_18020190871731910.heic
-tags: [ImmaMonsó, Anagrama, narrativa]
+tags: [Imma Monsó, Anagrama, narrativa]
 ---
 
 «La literatura no enganya. És el que té de bo. La literatura és la deformitat mateixa»

@@ -4,7 +4,7 @@ title: "Nuria Varela, <i>Feminismo para principiantes</i>"
 description: "TODO"
 date: 2022-12-18
 feature_image: images/posts/2022-12-18-320548087_2610195725788913_5469176552440587103_n_18061770022357586.webp
-tags: [NuriaVarela, BdeBolsillo, teoríayensayofeminista]
+tags: [Nuria Varela, B de Bolsillo, teoría y ensayo feminista]
 ---
 
 “La última reacción antifeminista no se desencadenó porque las mujeres hubieran conseguido plena igualdad con los hombres, sino porque parecía posible que llegaran a conseguirla” (cita de Susan Faludi, 1993)

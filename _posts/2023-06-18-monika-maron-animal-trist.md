@@ -4,7 +4,7 @@ title: "Monika Maron, <i>Animal trist</i>"
 description: "TODO"
 date: 2023-06-18
 feature_image: images/posts/2023-06-18-355159852_1720224591757349_4470042315544441243_n_17961016301600577.heic
-tags: [MonikaMaron, ClubEditor, narrativa]
+tags: [Monika Maron, Club Editor, narrativa]
 ---
 
 «Era la part dinosaure de mi la que estimava d'aquella manera, una cosa prehistòrica, atàvicament violenta, que menystenia tota norma civilitzadora; i que res que necessités el llenguatge no podia tenir raó contra el meu amor»

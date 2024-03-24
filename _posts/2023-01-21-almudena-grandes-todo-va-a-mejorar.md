@@ -4,7 +4,7 @@ title: "Almudena Grandes, <i>Todo va a mejorar</i>"
 description: "TODO"
 date: 2023-01-21
 feature_image: images/posts/2023-01-21-326857845_500964982142981_3330158567365135266_n_18043147531406476.webp
-tags: [AlmudenaGrandes, Tusquets, narrativa]
+tags: [Almudena Grandes, Tusquets, narrativa]
 ---
 
 «Todo ha empeorado, la felicidad no puede programarse, ¿quién manda?, ¿quién nos representa?, estar en libertad no significa ser libre, ahora sí que todo va a mejorar»

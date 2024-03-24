@@ -4,7 +4,7 @@ title: "Eva Piquer, <i>Aterratge</i>"
 description: "TODO"
 date: 2023-04-16
 feature_image: images/posts/2023-04-16-341178012_1930694183932723_4923217730849865817_n_17981856232929967.webp
-tags: [EvaPiquer, ClubEditor, narrativa]
+tags: [Eva Piquer, Club Editor, narrativa]
 ---
 
 «És millor no caure a cap barranc, no anar-hi a parar mai. Però no és impossible sortir-ne»

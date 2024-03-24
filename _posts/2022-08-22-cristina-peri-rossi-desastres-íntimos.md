@@ -4,7 +4,7 @@ title: "Cristina Peri Rossi, <i>Desastres íntimos</i>"
 description: "TODO"
 date: 2022-08-22
 feature_image: images/posts/2022-08-22-300410807_771520050765682_4750970405995884742_n_18218319427159990.webp
-tags: [CristinaPeriRossi, Lumen, narrativa]
+tags: [Cristina Peri Rossi, Lumen, narrativa]
 ---
 
 «Hasta la semana más maravillosa de nuestras vidas tiene un domingo que sigue al sábado»

@@ -4,7 +4,7 @@ title: "Elisa Victoria, <i>Otaberra</i>"
 description: "TODO"
 date: 2024-01-14
 feature_image: images/posts/2024-01-14-419496336_1140323834009822_4960579684600460594_n_18021687337825356.heic
-tags: [ElisaVictoria, BlackieBooks, narrativa]
+tags: [Elisa Victoria, Blackie Books, narrativa]
 ---
 
 «Hemos venido a este mundo a encontrarnos»

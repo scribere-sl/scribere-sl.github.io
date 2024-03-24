@@ -4,7 +4,7 @@ title: "Annie Ernaux, <i>El lugar</i>"
 description: "TODO"
 date: 2020-11-01
 feature_image: images/posts/2020-11-01-123144099_1103357440079594_2135272396296481610_n_17908000567533540.jpg
-tags: [AnnieErnaux, Tusquets, narrativa]
+tags: [Annie Ernaux, Tusquets, narrativa]
 ---
 
 «Quizá su mayor orgullo, o puede que hasta la justificación de su existencia: que yo pertenezca a un mundo que a él le había despreciado»

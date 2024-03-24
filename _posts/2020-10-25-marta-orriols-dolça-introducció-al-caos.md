@@ -4,7 +4,7 @@ title: "Marta Orriols, <i>Dolça introducció al caos</i>"
 description: "TODO"
 date: 2020-10-25
 feature_image: images/posts/2020-10-25-122727655_701155293836444_7248569001069821968_n_17869692479060133.jpg
-tags: [MartaOrriols, EdicionsdelPeriscopi, narrativa, maternidadOno]
+tags: [Marta Orriols, Edicions del Periscopi, narrativa, maternidad o no]
 ---
 
 «Es preguntarà de què es penedeix més, del que ha viscut o del que ha deixat de viure. No en traurà mai l’entrellat. Entendrà que el significat de la vida queda contingut en aquesta fissura [...]. Un podria basar la mateixa qüestió en una cara una mica més amable de la vida i plantejar-se què val més, el que ha viscut o el que es pensava que viuria.»

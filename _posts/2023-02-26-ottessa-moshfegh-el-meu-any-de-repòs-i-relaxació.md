@@ -4,7 +4,7 @@ title: "Ottessa Moshfegh, <i>El meu any de repòs i relaxació</i>"
 description: "TODO"
 date: 2023-02-26
 feature_image: images/posts/2023-02-26-332897297_199135139370065_8347289903767806473_n_17919491237680354.webp
-tags: [OttessaMoshfegh, AngleEditorial, narrativa]
+tags: [Ottessa Moshfegh, Angle Editorial, narrativa]
 ---
 
 «Era arran d’això que sabia que el son m’estava fent efecte: cada vegada estava menys lligada a la vida. Si continuava com fins llavors, pensava, desapareixeria completament i reapareixeria en alguna forma nova. La meva esperança era aquesta»

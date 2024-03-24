@@ -4,7 +4,7 @@ title: "Jeffrey Eugenides, <i>Las vírgenes suicidas</i>"
 description: "TODO"
 date: 2019-01-06
 feature_image: images/posts/2019-01-06-47691841_2262857843927378_3216438566564010342_n_17995966360086199.jpg
-tags: [JeffreyEugenides, Anagrama, narrativa]
+tags: [Jeffrey Eugenides, Anagrama, narrativa]
 ---
 
 «–¿Qué haces aquí, guapa? Si todavía no tienes edad para saber lo mala que es la vida.

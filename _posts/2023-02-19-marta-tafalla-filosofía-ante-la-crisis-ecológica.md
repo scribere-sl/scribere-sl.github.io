@@ -4,7 +4,7 @@ title: "Marta Tafalla, <i>Filosofía ante la crisis ecológica</i>"
 description: "TODO"
 date: 2023-02-19
 feature_image: images/posts/2023-02-19-331712589_721625752906634_9131820372651229997_n_18256473733122991.webp
-tags: [MartaTafalla, PlazayValdés, ensayo]
+tags: [Marta Tafalla, Plaza y Valdés, ensayo]
 ---
 
 «Esta crisis no se resuelve con más ciencia e innovación tecnológica, sino con filosofía, es decir, gestando otra cosmovisión, aprendiendo a pensar y sentir de otro modo, transformando nuestra manera de vivir»

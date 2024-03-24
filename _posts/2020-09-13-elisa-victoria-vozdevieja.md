@@ -4,7 +4,7 @@ title: "Elisa Victoria, <i>Vozdevieja</i>"
 description: "TODO"
 date: 2020-09-13
 feature_image: images/posts/2020-09-13-119230648_3394322744098063_417984895964373028_n_17843890361341007.jpg
-tags: [ElisaVictoria, BlackieBooks, narrativa]
+tags: [Elisa Victoria, Blackie Books, narrativa]
 ---
 
 «La estabilidad está en los placeres sencillos. Los básicos no fallan. Una fuente de filetes empanados, un helado de limón, una muñeca bien peinada, que alguien te enseñe sus estampitas repetidas y encontrar en mitad del fajo una que a ti te falta. Esas cosas me las tomo tan en serio porque son las únicas que no me quitarían si todo se fuese a la mierda. ¿Cómo de mal tendría que irme como para no poder comerme un polo de vez en cuando?»

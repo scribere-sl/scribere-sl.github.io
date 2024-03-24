@@ -4,7 +4,7 @@ title: "Vivian Gornick, <i>Mirar-nos de cara</i>"
 description: "TODO"
 date: 2020-09-24
 feature_image: images/posts/2020-09-24-120077567_1233399597035301_9052503655333625067_n_17896794484599219.jpg
-tags: [VivianGornick, LAltraEditorial, teoríayensayofeminista]
+tags: [Vivian Gornick, L'Altra Editorial, teoría y ensayo feminista]
 ---
 
 «Vaig veure el que les feministes visionàries havien vist aquests últims dos-cents anys: que el poder sobre la pròpia vida només arriba amb el domini constant del propi pensament»

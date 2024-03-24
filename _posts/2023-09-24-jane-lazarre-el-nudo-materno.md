@@ -4,7 +4,7 @@ title: "Jane Lazarre, <i>El nudo materno</i>"
 description: "TODO"
 date: 2023-09-24
 feature_image: images/posts/2023-09-24-382278092_839276187663111_2304604788239469853_n_17894812457893274.heic
-tags: [JaneLazarre, LasAfueras, narrativa, maternidadOno]
+tags: [Jane Lazarre, Las Afueras, narrativa, maternidad o no]
 ---
 
 «Yo daría la vida por él […]. Sin duda prefiero morirme que perderlo. Supongo que esto es amor —dije estremeciéndome, y después nos echamos a reír—, pero ha destrozado mi vida, y solo vivo pensando en cómo recuperarla»

@@ -4,7 +4,7 @@ title: "Delphine de Vigan, <i>Els nens són reis</i>"
 description: "TODO"
 date: 2022-12-08
 feature_image: images/posts/2022-12-08-318450122_683057330011646_427967297217595354_n_17968699276989336.webp
-tags: [DelphinedeVigan, Edicions62, narrativa]
+tags: [Delphine de Vigan, Edicions 62, narrativa]
 ---
 
 «Un món en què tot s’havia convertit en una mercaderia, i regit per la cultura de l’ego»

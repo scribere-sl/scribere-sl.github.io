@@ -4,7 +4,7 @@ title: "Mieko Kawakami, <i>Pechos y huevos</i>"
 description: "TODO"
 date: 2023-12-29
 feature_image: images/posts/2023-12-29-413427189_1075747750438774_8713623484105272795_n_18030129421759743.heic
-tags: [MiekoKawakami, SeixBarral, narrativa, maternidadOno]
+tags: [Mieko Kawakami, Seix Barral, narrativa, maternidad o no]
 ---
 
 «El ser humano es muy extraño. A pesar de saber que todo desaparecerá, llora, ríe, se enfada»

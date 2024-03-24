@@ -4,7 +4,7 @@ title: "Ali Smith, <i>Tardor</i>"
 description: "TODO"
 date: 2021-03-14
 feature_image: images/posts/2021-03-14-161044787_1371122909937816_2354037710154507853_n_17928666733515724.jpg
-tags: [AliSmith, RaigVerd, narrativa]
+tags: [Ali Smith, Raig Verd, narrativa]
 ---
 
 «Sempre has de llegir alguna cosa, va dir. Encara que no estiguis llegint físicament. Si no, com llegirem el món?»

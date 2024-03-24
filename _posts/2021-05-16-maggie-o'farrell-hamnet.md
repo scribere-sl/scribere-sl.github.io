@@ -4,7 +4,7 @@ title: "Maggie O'Farrell, <i>Hamnet</i>"
 description: "TODO"
 date: 2021-05-16
 feature_image: images/posts/2021-05-16-185849802_836279243937414_568077001888373708_n_17898977869998832.jpg
-tags: [MaggieOFarrell, LAltraEditorial, narrativa]
+tags: [Maggie O'Farrell, L'Altra Editorial, narrativa]
 ---
 
 «Durant la dècada del 1580, una parella que vivia a Henley Street, Stratford, va tenir tres fills: la Susanna i, després, el Hamnet i la Judith, que eren bessons. El nen, el Hamnet, va morir el 1596, quan tenia onze anys. Uns quatre anys després, el pare va escriure una obra de teatre titulada ‘Hamlet’»

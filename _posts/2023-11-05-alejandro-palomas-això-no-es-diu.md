@@ -4,7 +4,7 @@ title: "Alejandro Palomas, <i>Això no es diu</i>"
 description: "TODO"
 date: 2023-11-05
 feature_image: images/posts/2023-11-05-399669914_674427311461851_6980898727027823739_n_17938566182750993.heic
-tags: [AlejandroPalomas, Columna, narrativa]
+tags: [Alejandro Palomas, Columna, narrativa]
 ---
 
 «Parlo avui, al cap de quaranta-cinc anys de travessia per un desert on no ha estat fàcil viure, perquè per fi sento que no li tinc por (...) el nen ha sobreviscut a l’horror»

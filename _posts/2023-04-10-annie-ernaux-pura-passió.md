@@ -4,7 +4,7 @@ title: "Annie Ernaux, <i>Pura passió</i>"
 description: "TODO"
 date: 2023-04-10
 feature_image: images/posts/2023-04-10-340358683_1664862493957268_5451063140620123474_n_17997594475753581.webp
-tags: [AnnieErnaux, AngleEditorial, narrativa]
+tags: [Annie Ernaux, Angle Editorial, narrativa]
 ---
 
 «Estava segura que mai no hi havia hagut res més important en la meva vida, ni tenir fills, ni aprovar les oposicions, ni viatjar lluny; només això, estar al llit amb aquell home a mitja tarda»

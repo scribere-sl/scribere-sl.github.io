@@ -4,7 +4,7 @@ title: "Delphine de Vigan, <i>Les gratituds</i>"
 description: "TODO"
 date: 2021-09-07
 feature_image: images/posts/2021-09-07-241379052_134484575561607_5377455565424272889_n_18132469003224783.jpg
-tags: [DelphinedeVigan, Edicions62, narrativa]
+tags: [Delphine de Vigan, Edicions 62, narrativa]
 ---
 
 «Però què ha passat? Com pot ser? Això és el que ens espera a tots, sense excepció? No hi ha cap desviació, cap bifurcació, cap ruta alternativa?»

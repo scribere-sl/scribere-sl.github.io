@@ -4,7 +4,7 @@ title: "Vanessa Springora, <i>El consentiment</i>"
 description: "TODO"
 date: 2021-01-03
 feature_image: images/posts/2021-01-03-135708409_1254222454959025_819792368255136902_n_17887768801878066.jpg
-tags: [VanessaSpringora, Empúries, narrativa]
+tags: [Vanessa Springora, Empúries, narrativa]
 ---
 
 «Hi ha llibres que són excel·lents medicaments. No me’n recordava»

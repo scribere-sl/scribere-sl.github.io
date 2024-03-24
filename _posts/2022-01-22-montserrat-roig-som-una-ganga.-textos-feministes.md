@@ -4,7 +4,7 @@ title: "Montserrat Roig, <i>Som una ganga. Textos feministes</i>"
 description: "TODO"
 date: 2022-01-22
 feature_image: images/posts/2022-01-22-272229110_163389402688165_467797840541387578_n_17949687646651888.webp
-tags: [MontserratRoig, Comanegra, teoríayensayofeminista]
+tags: [Montserrat Roig, Comanegra, teoría y ensayo feminista]
 ---
 
 «Vam estimar, doncs, totes i tots els del Molino, perquè remenen el cul com els ve de gust, perquè se’n riuen del senyor que llavieja, d’elles i de nosaltres, perquè es riuen del sexe i ens venen a dir que tot plegat fora una aventura apassionant si no ens entestéssim a demostrar que, a tot arreu, hi ha d’haver algú que mana»

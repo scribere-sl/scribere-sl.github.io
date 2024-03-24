@@ -4,7 +4,7 @@ title: "Elena Medel, <i>Las maravillas</i>"
 description: "TODO"
 date: 2021-08-02
 feature_image: images/posts/2021-08-02-232162822_1503575519989811_5044326913828462836_n_18162498184088213.jpg
-tags: [ElenaMedel, Anagrama, narrativa]
+tags: [Elena Medel, Anagrama, narrativa]
 ---
 
 «¿Y si la forma de ser la transmiten los genes, igual que el color de los ojos o la forma de la boca?»

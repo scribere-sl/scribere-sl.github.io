@@ -4,7 +4,7 @@ title: "Jenn Díaz, <i>Dona i poder</i>"
 description: "TODO"
 date: 2020-11-08
 feature_image: images/posts/2020-11-08-124367601_376831076850587_7021816389842597159_n_17879223838887460.jpg
-tags: [JennDíaz, AraLlibres, teoríayensayofeminista]
+tags: [Jenn Díaz, Ara Llibres, teoría y ensayo feminista]
 ---
 
 «La comunicació política construeix personatges, i la comunicació política feminista ha de construir persones»

@@ -4,7 +4,7 @@ title: "Sylvia Plath, <i>La campana de vidre</i>"
 description: "TODO"
 date: 2023-08-27
 feature_image: images/posts/2023-08-27-371441308_288274173822921_5878615608318971070_n_17996622149124646.heic
-tags: [SylviaPlath, EdicionsdelPeriscopi, narrativa]
+tags: [Sylvia Plath, Edicions del Periscopi, narrativa]
 ---
 
 «—Saps què és, un poema, Esther?

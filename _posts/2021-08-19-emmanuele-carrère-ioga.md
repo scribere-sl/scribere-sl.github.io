@@ -4,7 +4,7 @@ title: "Emmanuele Carrère, <i>Ioga</i>"
 description: "TODO"
 date: 2021-08-19
 feature_image: images/posts/2021-08-19-238834612_369541384743829_7984891248110644008_n_17926848580703077.jpg
-tags: [EmmanueleCarrère, Anagrama, narrativa]
+tags: [Emmanuele Carrère, Anagrama, narrativa]
 ---
 
 «Pitàgores feia aquesta pregunta: "Per què és a la terra, l'home?". Resposta: "Per contemplar el cel." La majoria es pensen que són a la terra per trobar l'amor, fer-se rics, exercir el poder, generar creixement econòmic o deixar una empremta a la sorra del temps. Són pocs els que se saben a la terra per contemplar el cel»

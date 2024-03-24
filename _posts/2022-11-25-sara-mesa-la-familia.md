@@ -4,7 +4,7 @@ title: "Sara Mesa, <i>La familia</i>"
 description: "TODO"
 date: 2022-11-25
 feature_image: images/posts/2022-11-25-317117113_472802438169159_8035053445869837669_n_17984680009725177.webp
-tags: [SaraMesa, Anagrama, narrativa]
+tags: [Sara Mesa, Anagrama, narrativa]
 ---
 
 «Tuvo la intuición de que todos fingían, de que nadie hacía lo que en realidad quería hacer»

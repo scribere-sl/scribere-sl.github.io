@@ -4,7 +4,7 @@ title: "Alba Dalmau, <i>Amor i no</i>"
 description: "TODO"
 date: 2021-03-21
 feature_image: images/posts/2021-03-21-162126461_101778048647561_5536310464320323457_n_17867839991381355.jpg
-tags: [AlbaDalmau, AngleEditorial, narrativa]
+tags: [Alba Dalmau, Angle Editorial, narrativa]
 ---
 
 «Està gairebé segur que és millor el que hi ha en aquesta banda del petó»

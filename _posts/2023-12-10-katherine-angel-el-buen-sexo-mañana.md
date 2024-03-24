@@ -4,7 +4,7 @@ title: "Katherine Angel, <i>El buen sexo mañana</i>"
 description: "TODO"
 date: 2023-12-10
 feature_image: images/posts/2023-12-10-408807646_1533466600836423_6355033053695750861_n_17921620181821407.heic
-tags: [KatherineAngel, AlphaDecay, teoríayensayofeminista]
+tags: [Katherine Angel, Alpha Decay, teoría y ensayo feminista]
 ---
 
 «Una ética del sexo digna de ese nombre tiene que admitir la vaguedad, la opacidad y el desconocimiento. Tenemos que partir de esta premisa, esta peligrosa y compleja premisa: no tendríamos por qué conocernos a nosotras mismas para estar a salvo de la violencia»

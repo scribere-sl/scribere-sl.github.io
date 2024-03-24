@@ -4,7 +4,7 @@ title: "Eva Baltasar, <i>Mamut</i>"
 description: "TODO"
 date: 2022-04-23
 feature_image: images/posts/2022-04-23-279119617_1634343576899276_4653035406181003632_n_18292395787018511.webp
-tags: [EvaBaltasar, ClubEditor, narrativa]
+tags: [Eva Baltasar, Club Editor, narrativa]
 ---
 
 «Esdevenia l’animal captiu que aixeca el musell i es queda pensatiu perquè ha ensumat els dits d’un nen i li ha quedat la gana a dintre»

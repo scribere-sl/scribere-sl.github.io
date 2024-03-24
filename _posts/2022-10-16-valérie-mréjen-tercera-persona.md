@@ -4,7 +4,7 @@ title: "Valérie Mréjen, <i>Tercera persona</i>"
 description: "TODO"
 date: 2022-10-16
 feature_image: images/posts/2022-10-16-311731949_629081262043970_7738007402850846394_n_18219145252092596.webp
-tags: [ValérieMréjen, Periférica, narrativa]
+tags: [Valérie Mréjen, Periférica, narrativa]
 ---
 
 “De hecho, deberíamos seguir tu ejemplo más a menudo para no ir tan deprisa pensando en el trabajo todo el rato y permanecer el tiempo que haga falta en esa posición de observador: las rodillas dobladas, la cabeza inclinada hacia el suelo, cautivada por el recorrido de una babosa o un escarabajo”

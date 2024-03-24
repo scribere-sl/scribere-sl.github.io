@@ -4,7 +4,7 @@ title: "Jane Smiley, <i>Heredarás la tierra</i>"
 description: "TODO"
 date: 2023-11-19
 feature_image: images/posts/2023-11-19-403846206_250583067691107_8503225317119407620_n_18000576809203646.heic
-tags: [JaneSmiley, SextoPiso, narrativa]
+tags: [Jane Smiley, Sexto Piso, narrativa]
 ---
 
 «“Cuando sea mayor, yo no voy a ser la mujer de un granjero”. Mamá se echó a reír y le preguntó qué sería ella, y le dijo: “Granjero.”»

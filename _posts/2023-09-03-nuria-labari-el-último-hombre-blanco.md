@@ -4,7 +4,7 @@ title: "Nuria Labari, <i>El último hombre blanco</i>"
 description: "TODO"
 date: 2023-09-03
 feature_image: images/posts/2023-09-03-375100128_712979827312449_6270369271044508887_n_18020069311670571.heic
-tags: [NuriaLabari, RandomHouse, narrativa, teoríayensayofeminista]
+tags: [Nuria Labari, Random House, narrativa, teoría y ensayo feminista]
 ---
 
 «Así que cuando la cuota femenina está a punto de cumplirse en algunas de las empresas más importantes del mundo, resulta que el poder sigue siendo masculino. Una cosa es cambiar a los jugadores y otra las reglas del juego, y las reglas, también las de hoy, las inventaron ellos. Y esa es la razón por la que el futuro no puede empezar.»

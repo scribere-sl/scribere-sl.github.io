@@ -4,7 +4,7 @@ title: "Sara Torres, <i>Lo que hay</i>"
 description: "TODO"
 date: 2022-08-16
 feature_image: images/posts/2022-08-16-299830328_589967595930832_521729097006440875_n_18242722720113123.webp
-tags: [SaraTorres, ReservoirBooks, narrativa]
+tags: [Sara Torres, Reservoir Books, narrativa]
 ---
 
 «Solo puedo sentirme unida a ese cuello como si mi pulso se expresase también en él»

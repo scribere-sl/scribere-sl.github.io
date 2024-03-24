@@ -4,7 +4,7 @@ title: "Yayo Herrero, Marta Pascual y María González Reyes, <i>La vida en el c
 description: "TODO"
 date: 2022-07-30
 feature_image: images/posts/2022-07-30-296488209_756267229022673_6163656441584436331_n_17995226959497649.webp
-tags: [YayoHerrero, LibrosenAcción, teoríayensayofeminista]
+tags: [Yayo Herrero, Libros en Acción, teoría y ensayo feminista]
 ---
 
 «Para que la vida se reproduzca cotidiana y generacionalmente hace falta sostener la existencia humana intencionalmente. Sin embargo, en nuestra civilización la economía, la política y la cultura se han constituido como si “flotasen” por encima y por fuera de la naturaleza y de los cuerpos»

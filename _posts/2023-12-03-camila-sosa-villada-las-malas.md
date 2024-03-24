@@ -4,7 +4,7 @@ title: "Camila Sosa Villada, <i>Las malas</i>"
 description: "TODO"
 date: 2023-12-03
 feature_image: images/posts/2023-12-03-405234033_706785344732958_3109539163171015055_n_17852910771089339.heic
-tags: [CamilaSosaVillada, Tusquets, narrativa]
+tags: [Camila Sosa Villada, Tusquets, narrativa]
 ---
 
 «era la actitud inquebrantable, revolucionaria, ejemplar, de esa hermandad de travestis mal miradas, mal queridas, mal tratadas, mal pagadas, mal juzgadas, mal habladas»

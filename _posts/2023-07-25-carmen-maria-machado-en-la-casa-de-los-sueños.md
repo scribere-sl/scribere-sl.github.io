@@ -4,7 +4,7 @@ title: "Carmen Maria Machado, <i>En la casa de los sueños</i>"
 description: "TODO"
 date: 2023-07-25
 feature_image: images/posts/2023-07-25-362644609_662695225736070_6911367466712745916_n_18229672375229161.heic
-tags: [CarmenMariaMachado, Anagrama, narrativa]
+tags: [Carmen Maria Machado, Anagrama, narrativa]
 ---
 
 «“No podemos dejar de vivir.” Cosa que quiere decir que tenemos que vivir, cosa que quiere decir que estamos vivos, cosa que significa que somos seres humanos y que somos humanos: algunos de nosotros somos desagradables, algunos nos hallamos confundidos, algunos nos acostamos con quien no debemos, algunos tomamos decisiones equivocadas, y algunos somos asesinos. Y suena fatal, pero, en realidad, es liberador: la idea de que ser homosexual no equivale a ser bueno, ni puro, ni a estar en posesión de la verdad. Es solo un estado del ser.»

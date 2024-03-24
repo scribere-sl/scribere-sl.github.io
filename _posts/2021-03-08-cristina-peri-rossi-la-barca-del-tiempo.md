@@ -4,7 +4,7 @@ title: "Cristina Peri Rossi, <i>La barca del tiempo</i>"
 description: "TODO"
 date: 2021-03-08
 feature_image: images/posts/2021-03-08-158461851_349642219632495_7949640789612509279_n_17882718830120296.jpg
-tags: [CristinaPeriRossi, VisorPoesía, poesía]
+tags: [Cristina Peri Rossi, Visor Poesía, poesía]
 ---
 
 Condición de mujer

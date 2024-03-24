@@ -4,7 +4,7 @@ title: "Paula Bonet, <i>La Anguila</i>"
 description: "TODO"
 date: 2021-08-12
 feature_image: images/posts/2021-08-12-235643595_363085241940038_8083224969383670976_n_17897865662304034.jpg
-tags: [PaulaBonet, Anagrama, narrativa, teoríayensayofeminista]
+tags: [Paula Bonet, Anagrama, narrativa, teoría y ensayo feminista]
 ---
 
 «¿Cómo se hace para hablar de la condición humana cuando se es mujer?»

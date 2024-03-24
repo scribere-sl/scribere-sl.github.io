@@ -4,7 +4,7 @@ title: "Jacqueline Harpman, <i>Jo, que no he conegut els homes</i>"
 description: "TODO"
 date: 2021-10-23
 feature_image: images/posts/2021-10-23-248086729_933800707210995_1747940394464328679_n_17881544975530031.webp
-tags: [JacquelineHarpman, EdicionsdelPeriscopi, narrativa]
+tags: [Jacqueline Harpman, Edicions del Periscopi, narrativa]
 ---
 
 «Parlar és existir»

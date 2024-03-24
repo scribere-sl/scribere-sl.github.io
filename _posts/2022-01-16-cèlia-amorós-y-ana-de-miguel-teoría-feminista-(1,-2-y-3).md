@@ -4,7 +4,7 @@ title: "Cèlia Amorós y Ana de Miguel, <i>Teoría feminista (1, 2 y 3)</i>"
 description: "TODO"
 date: 2022-01-16
 feature_image: images/posts/2022-01-16-271916277_333201742022973_6446745952823428829_n_17915204018206543.webp
-tags: [CèliaAmorósyAnadeMiguel, BibliotecaNueva, teoríayensayofeminista]
+tags: [Cèlia Amorós y Ana de Miguel, Biblioteca Nueva, teoría y ensayo feminista]
 ---
 
 «La teoría feminista tiene una tradición de tres siglos. […] La teoría feminista que se elabora sin tener en cuenta su tradición corre el riesgo de reproducir en el pensamiento mismo acerca de la emancipación de las mujeres la manera como la simbólica patriarcal ha representado la tarea femenina: un permanente hacer y deshacer, cuyos referentes emblemáticos serían el mito de Sísifo y el constante tejer y destejer de Penélope»

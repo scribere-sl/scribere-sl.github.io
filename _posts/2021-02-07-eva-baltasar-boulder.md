@@ -4,7 +4,7 @@ title: "Eva Baltasar, <i>Boulder</i>"
 description: "TODO"
 date: 2021-02-07
 feature_image: images/posts/2021-02-07-146755405_453465239122020_4354467334102390172_n_17900135554748319.jpg
-tags: [EvaBaltasar, ClubEditor, narrativa]
+tags: [Eva Baltasar, Club Editor, narrativa]
 ---
 
 «No puc evitar mirar-la, com quan t’aboques per la borda i descobreixes que hi ha un tauró»

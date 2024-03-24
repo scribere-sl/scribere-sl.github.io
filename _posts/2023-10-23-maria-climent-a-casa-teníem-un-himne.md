@@ -4,7 +4,7 @@ title: "Maria Climent, <i>A casa teníem un himne</i>"
 description: "TODO"
 date: 2023-10-23
 feature_image: images/posts/2023-10-23-395355377_344006658142290_7415549115933544461_n_18026498635664238.heic
-tags: [MariaCliment, LAltraEditorial, narrativa]
+tags: [Maria Climent, L'Altra Editorial, narrativa]
 ---
 
 «¿Qui té el coratge de fer el contrari del que li han ensenyat?»

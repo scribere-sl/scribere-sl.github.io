@@ -4,7 +4,7 @@ title: "Sheila Heti, <i>Maternidad</i>"
 description: "TODO"
 date: 2023-08-05
 feature_image: images/posts/2023-08-05-364985244_674999981158486_2421986609285858879_n_18004414225779160.heic
-tags: [SheilaHeti, Lumen, narrativa, teoríayensayofeminista, maternidadOno]
+tags: [Sheila Heti, Lumen, narrativa, teoría y ensayo feminista, maternidad o no]
 ---
 
 «Las decisiones se producen en el ámbito privado de la mente. No son acciones. Para que las cosas se produzcan, en una vida deben participar otras personas. Debemos desearlo. Deben contribuir numerosos elementos. La vida misma debe desearlo. Una decisión que está en la mente es bastante insignificante. No engendra niños. Si una decisión mental no engendra niños, ¿por qué paso tanto rato dándole vueltas al tema?»

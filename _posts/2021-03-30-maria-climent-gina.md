@@ -4,7 +4,7 @@ title: "Maria Climent, <i>Gina</i>"
 description: "TODO"
 date: 2021-03-30
 feature_image: images/posts/2021-03-30-166747626_254548456336729_1184479591582847451_n_17911203805723526.jpg
-tags: [MariaCliment, LAltraEditorial, narrativa]
+tags: [Maria Climent, L'Altra Editorial, narrativa]
 ---
 
 «La vida és una successió d’esdeveniments inevitables i d’esdeveniments evitables que pel que sigue no s’han evitat, o que fins i tot s’han buscat, amb tot lo que això comporta»

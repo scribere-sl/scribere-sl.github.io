@@ -4,7 +4,7 @@ title: "Clarice Lispector, <i>Aigua viva. L'hora de l'estrella</i>"
 description: "TODO"
 date: 2021-09-10
 feature_image: images/posts/2021-09-10-241562194_112206057862407_8957563552722167552_n_17899492610272228.jpg
-tags: [ClariceLispector, PagèsEditors, narrativa]
+tags: [Clarice Lispector, Pagès Editors, narrativa]
 ---
 
 «Cada cosa té un instant en què és»

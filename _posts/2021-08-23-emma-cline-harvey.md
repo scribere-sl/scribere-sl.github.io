@@ -4,7 +4,7 @@ title: "Emma Cline, <i>Harvey</i>"
 description: "TODO"
 date: 2021-08-23
 feature_image: images/posts/2021-08-23-240484438_119528917090458_4123124945467473415_n_18248332132021100.jpg
-tags: [EmmaCline, Anagrama, narrativa]
+tags: [Emma Cline, Anagrama, narrativa]
 ---
 
 «En aquest moment de la vida, podia satisfer totes les seves necessitats: estar sempre calent, estar sempre alimentat. I si això canviava? Insuportable, impensable»

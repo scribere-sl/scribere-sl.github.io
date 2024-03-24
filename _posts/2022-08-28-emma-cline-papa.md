@@ -4,7 +4,7 @@ title: "Emma Cline, <i>Papa</i>"
 description: "TODO"
 date: 2022-08-28
 feature_image: images/posts/2022-08-28-301994959_1105205480129741_7434684905090674040_n_17855304962799870.webp
-tags: [EmmaCline, Anagrama, narrativa]
+tags: [Emma Cline, Anagrama, narrativa]
 ---
 
 «Hi havia nits que passejava pel barri, prop de la vora humida del pantà. Era un plaer, poder veure l’interior d’aquelles cases de nit. Cadascuna era un petit manual sobre com ser un ésser humà»

@@ -8,6 +8,7 @@ tags: [Diversis autoris, Raig Verd, lingüística]
 ---
 
 «La llengua utòpica i sense cap gènere lingüístic, ara per ara, no existeix»
+<!--more-->
 
 #Diversisautoris #Guiagramaticaldellenguatgenobinari @Raig_Verd
 

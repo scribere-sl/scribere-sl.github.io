@@ -2,7 +2,7 @@
 layout: post
 title: "Diversis autoris, <i>Guia gramatical de llenguatge no binari</i>"
 description: "TODO"
-date: 2018-12-22
+date: 2024-01-21
 feature_image: images/posts/nobinari.jpg
 tags: [Diversis autoris, Raig Verd, lingüística]
 ---

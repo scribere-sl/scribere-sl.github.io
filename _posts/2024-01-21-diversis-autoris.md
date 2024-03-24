@@ -9,7 +9,7 @@ tags: [Diversis autoris, Raig Verd, lingüística]
 
 «La llengua utòpica i sense cap gènere lingüístic, ara per ara, no existeix»
 
-#carmenmartíngaite #nubosidadvariable #anagramaeditor #anagrama #leeydejaleer #leoycomparto #librosrecomendados #bookstagram
+#Diversisautoris #Guiagramaticaldellenguatgenobinari @Raig_Verd
 
 ⚧️ No soc una persona gaire aventurera ni donada a la ciència-ficció, però des de fa uns anys penso que m’agradaria tenir una màquina del temps per a una cosa molt concreta: veure com s’ha resolt la qüestió del llenguatge inclusiu i del llenguatge no-binari d’aquí a un segle.
 

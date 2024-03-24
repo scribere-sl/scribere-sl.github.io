@@ -18,4 +18,4 @@ Ell és acusat d’assetjament sexual per la seva responsable de premsa i ha de 
 
 Com a mostra de l’altra banda del poder, la de la vulnerabilitat, trobem els textos de Zoé Katana, que pertany a l’exèrcit de dones maltractades que surten del silenci, denuncien el patriarcat i no paren de rebre insults i amenaces. La vergonya ha de canviar de bàndol.
 
-Despentes és una autora polèmica, no sempre estic d’acord amb el que planteja, però té la capacitat de mostrar diferents cares d’una mateixa situació complexa i capgirar la perspectiva, i això m’ajuda a pensar. 🐑
+Despentes és una autora polèmica, no sempre estic d’acord amb el que planteja, però té la capacitat de mostrar diferents cares d’una mateixa situació complexa i capgirar la perspectiva, i això m’ajuda a pensar. 🐑 

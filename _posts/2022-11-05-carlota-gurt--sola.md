@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Calota Gurt , <i>Sola</i>"
+title: "Carlota Gurt , <i>Sola</i>"
 description: "TODO"
 date: 2022-11-05
 feature_image: images/posts/2022-11-05-314608349_505943728120260_5080077553803702675_n_18265846978103249.webp

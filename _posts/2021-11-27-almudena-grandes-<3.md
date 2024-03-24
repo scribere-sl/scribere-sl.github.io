@@ -7,13 +7,6 @@ feature_image: images/posts/2021-11-27-261621134_4966040286742504_78426738326495
 tags: [Almudena Grandes, Tusquets, narrativa]
 ---
 
-«Sin embargo, con el tiempo comprendí que la alegría era un arma superior al odio, las sonrisas más útiles, más feroces que los gestos de rabia y desaliento» (
-<!--more-->
+«Sin embargo, con el tiempo comprendí que la alegría era un arma superior al odio, las sonrisas más útiles, más feroces que los gestos de rabia y desaliento» (*Las tres bodas de Manolita*)
 
-#LastresbodasdeManolita)
-
-No soy de compartir fotos personales por aquí ni de ir a firmas de libros, pero
-
- #AlmudenaGrandes
-
- bien vale las excepciones. Tuve la suerte de poder decírselo en persona: Gracias por todos tus libros, Almudena.
+No soy de compartir fotos personales por aquí ni de ir a firmas de libros, pero Almudena Grandes bien vale las excepciones. Tuve la suerte de poder decírselo en persona: Gracias por todos tus libros, Almudena.

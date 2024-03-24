@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sheila Heti, <i>Maternidad</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-08-05
 feature_image: images/posts/2023-08-05-364985244_674999981158486_2421986609285858879_n_18004414225779160.heic
 tags: [Sheila Heti, Lumen, narrativa, teoría y ensayo feminista, maternidad o no]

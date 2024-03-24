@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Carmen Martín Gaite, <i>Lo raro es vivir</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-04-23
 feature_image: images/posts/2020-04-23-94103021_108133784077783_181657070992023272_n_17902145137451071.jpg
 tags: [Carmen Martín Gaite, Anagrama, narrativa]

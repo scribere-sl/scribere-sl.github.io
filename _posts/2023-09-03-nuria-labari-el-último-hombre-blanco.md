@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nuria Labari, <i>El último hombre blanco</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-09-03
 feature_image: images/posts/2023-09-03-375100128_712979827312449_6270369271044508887_n_18020069311670571.heic
 tags: [Nuria Labari, Random House, narrativa, teoría y ensayo feminista]

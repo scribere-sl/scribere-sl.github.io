@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sara Mesa, <i>Un amor</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-09-17
 feature_image: images/posts/2020-09-17-119473112_3793484340679609_1728802610805205960_n_17853748490228386.jpg
 tags: [Sara Mesa, Anagrama, narrativa]

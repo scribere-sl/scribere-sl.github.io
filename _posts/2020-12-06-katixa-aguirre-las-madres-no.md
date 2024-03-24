@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Katixa Aguirre, <i>Las madres no</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-12-06
 feature_image: images/posts/2020-12-06-129737478_396425835039328_4476698943738660281_n_17862538367276004.jpg
 tags: [Katixa Aguirre, Tránsito editorial, narrativa, maternidad o no]

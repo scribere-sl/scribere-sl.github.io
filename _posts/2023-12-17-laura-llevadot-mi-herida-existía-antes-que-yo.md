@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laura Llevadot, <i>Mi herida existía antes que yo</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-12-17
 feature_image: images/posts/2023-12-17-411283732_1464299467471360_8572489361637154669_n_18000086945351768.heic
 tags: [Laura Llevadot, Tusquets, teoría y ensayo feminista]

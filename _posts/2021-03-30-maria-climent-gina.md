@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maria Climent, <i>Gina</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-03-30
 feature_image: images/posts/2021-03-30-166747626_254548456336729_1184479591582847451_n_17911203805723526.jpg
 tags: [Maria Climent, L'Altra Editorial, narrativa]

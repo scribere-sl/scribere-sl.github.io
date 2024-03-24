@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Víctor Parkas, <i>Game Boy</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-04-11
 feature_image: images/posts/2020-04-11-92923020_162728378305223_1018320321815880755_n_17910325438426992.jpg
 tags: [Víctor Parkas, Caballo de Troya, narrativa]

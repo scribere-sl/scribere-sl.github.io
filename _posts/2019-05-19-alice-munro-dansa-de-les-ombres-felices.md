@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alice Munro, <i>Dansa de les ombres felices</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-05-19
 feature_image: images/posts/2019-05-19-60040213_2160894550675537_5118794263699859361_n_18039731890139360.jpg
 tags: [Alice Munro, Club Editor, narrativa]

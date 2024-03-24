@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sara Torres, <i>Lo que hay</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-08-16
 feature_image: images/posts/2022-08-16-299830328_589967595930832_521729097006440875_n_18242722720113123.webp
 tags: [Sara Torres, Reservoir Books, narrativa]

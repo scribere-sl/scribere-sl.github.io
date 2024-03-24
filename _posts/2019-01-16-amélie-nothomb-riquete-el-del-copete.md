@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Amélie Nothomb, <i>Riquete el del Copete</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-01-16
 feature_image: images/posts/2019-01-16-50083424_1116875131806459_4438422850927568871_n_18022300012037059.jpg
 tags: [Amélie Nothomb, Anagrama, narrativa]

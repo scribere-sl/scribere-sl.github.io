@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Raven Leilani, <i>Brillo</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-02-12
 feature_image: images/posts/2023-02-12-330633933_1438390513595626_1687737538735822010_n_17860854806891575.webp
 tags: [Raven Leilani, Blackie Books, narrativa]

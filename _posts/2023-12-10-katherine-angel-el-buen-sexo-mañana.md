@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Katherine Angel, <i>El buen sexo mañana</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-12-10
 feature_image: images/posts/2023-12-10-408807646_1533466600836423_6355033053695750861_n_17921620181821407.heic
 tags: [Katherine Angel, Alpha Decay, teoría y ensayo feminista]

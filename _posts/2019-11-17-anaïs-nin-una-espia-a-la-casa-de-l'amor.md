@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anaïs Nin, <i>Una espia a la casa de l'amor</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-11-17
 feature_image: images/posts/2019-11-17-74340435_174795980306004_2286969305770386423_n_17869565179515805.jpg
 tags: [Anaïs Nin, La Breu Edicions, narrativa]

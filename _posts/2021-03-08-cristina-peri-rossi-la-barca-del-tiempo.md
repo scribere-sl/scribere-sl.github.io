@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cristina Peri Rossi, <i>La barca del tiempo</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-03-08
 feature_image: images/posts/2021-03-08-158461851_349642219632495_7949640789612509279_n_17882718830120296.jpg
 tags: [Cristina Peri Rossi, Visor Poesía, poesía]

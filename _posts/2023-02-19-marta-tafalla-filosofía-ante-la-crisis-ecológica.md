@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marta Tafalla, <i>Filosofía ante la crisis ecológica</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-02-19
 feature_image: images/posts/2023-02-19-331712589_721625752906634_9131820372651229997_n_18256473733122991.webp
 tags: [Marta Tafalla, Plaza y Valdés, ensayo]

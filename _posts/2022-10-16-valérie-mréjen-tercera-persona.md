@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Valérie Mréjen, <i>Tercera persona</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-10-16
 feature_image: images/posts/2022-10-16-311731949_629081262043970_7738007402850846394_n_18219145252092596.webp
 tags: [Valérie Mréjen, Periférica, maternidad o no, narrativa]

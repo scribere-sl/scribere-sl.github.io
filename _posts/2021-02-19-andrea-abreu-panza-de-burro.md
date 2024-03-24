@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Andrea Abreu, <i>Panza de burro</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-02-19
 feature_image: images/posts/2021-02-19-151068005_894542187989028_937232960578336480_n_17900087296809565.jpg
 tags: [Andrea Abreu, Editorial Barrett, narrativa]

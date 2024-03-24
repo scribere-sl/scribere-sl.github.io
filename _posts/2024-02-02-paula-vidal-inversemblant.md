@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paula Vidal, <i>Inversemblant</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-02-04
 feature_image: images/posts/inversemblant.jpg
 tags: [Paula Vidal, Estrella Polar Editorial, novela juvenil]

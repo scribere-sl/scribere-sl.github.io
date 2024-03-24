@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Camila Sosa Villada, <i>Las malas</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-12-03
 feature_image: images/posts/2023-12-03-405234033_706785344732958_3109539163171015055_n_17852910771089339.heic
 tags: [Camila Sosa Villada, Tusquets, narrativa]

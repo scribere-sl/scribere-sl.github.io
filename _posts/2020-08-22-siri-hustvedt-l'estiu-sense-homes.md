@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Siri Hustvedt, <i>L'estiu sense homes</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-08-22
 feature_image: images/posts/2020-08-22-118199294_304723794190978_4541615943627619129_n_17848341203284846.jpg
 tags: [Siri Hustvedt, Anagrama, narrativa]

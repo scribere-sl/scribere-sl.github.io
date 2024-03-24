@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fraser, Bhattacharya, Arruzza, <i>Feminisme per al 99%</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-07-24
 feature_image: images/posts/2022-07-24-295443700_1450334562060337_2484892524362035761_n_17869821614699868.webp
 tags: [Fraser, Tigre de Paper, teoría y ensayo feminista]

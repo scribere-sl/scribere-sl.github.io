@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sara Mesa, <i>La familia</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-11-25
 feature_image: images/posts/2022-11-25-317117113_472802438169159_8035053445869837669_n_17984680009725177.webp
 tags: [Sara Mesa, Anagrama, narrativa]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maggie O'Farrell, <i>El retrat de matrimoni</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-07-01
 feature_image: images/posts/2023-07-01-357644588_1195406608524347_7024666190098229772_n_17978885495339910.heic
 tags: [Maggie O'Farrell, L'Altra Editorial, narrativa]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alba Dalmau, <i>Amor i no</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-03-21
 feature_image: images/posts/2021-03-21-162126461_101778048647561_5536310464320323457_n_17867839991381355.jpg
 tags: [Alba Dalmau, Angle Editorial, narrativa]

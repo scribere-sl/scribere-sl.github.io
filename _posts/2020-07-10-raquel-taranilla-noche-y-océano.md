@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Raquel Taranilla, <i>Noche y océano</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-07-10
 feature_image: images/posts/2020-07-10-106790124_3178849212150203_1372503003453535815_n_18068883514217983.jpg
 tags: [Raquel Taranilla, Seix Barral, narrativa]

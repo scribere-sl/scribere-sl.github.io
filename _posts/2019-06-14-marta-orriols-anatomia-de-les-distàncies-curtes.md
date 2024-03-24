@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marta Orriols, <i>Anatomia de les distàncies curtes</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-06-14
 feature_image: images/posts/2019-06-14-61622336_2296875400529659_4381172142411553938_n_17842311037496049.jpg
 tags: [Marta Orriols, Edicions del Periscopi, narrativa]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "bell hooks, <i>Todo sobre el amor</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-11-12
 feature_image: images/posts/2023-11-12-401148130_894744195699828_6567133040137234873_n_18039071371583181.heic
 tags: [bell hooks, Paidós, teoría y ensayo feminista]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Annie Ernaux, <i>Pura passió</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-04-10
 feature_image: images/posts/2023-04-10-340358683_1664862493957268_5451063140620123474_n_17997594475753581.webp
 tags: [Annie Ernaux, Angle Editorial, narrativa]

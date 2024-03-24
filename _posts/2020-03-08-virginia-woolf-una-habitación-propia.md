@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Virginia Woolf, <i>Una habitación propia</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-03-08
 feature_image: images/posts/2020-03-08-88978061_479035916306841_5796832840816060169_n_17856995812798076.jpg
 tags: [Virginia Woolf, Alianza, teoría y ensayo feminista]

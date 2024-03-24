@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rachel Cusck, <i>Despojos</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-05-23
 feature_image: images/posts/2021-05-23-190825674_312053937197813_1716243330886387882_n_17858403401541976.jpg
 tags: [Rachel Cusck, Libros del Periscopio, narrativa, teoría y ensayo feminista]

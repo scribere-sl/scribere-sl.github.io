@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elisa Victoria, <i>Otaberra</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-01-14
 feature_image: images/posts/2024-01-14-419496336_1140323834009822_4960579684600460594_n_18021687337825356.heic
 tags: [Elisa Victoria, Blackie Books, narrativa]

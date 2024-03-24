@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gemma Ruiz Pala, <i>Ca la Wenling</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-02-01
 feature_image: images/posts/2021-02-01-144144194_122842262977131_5990645301125130923_n_17882929727001903.jpg
 tags: [Gemma Ruiz Pala, Edicions Proa, narrativa]

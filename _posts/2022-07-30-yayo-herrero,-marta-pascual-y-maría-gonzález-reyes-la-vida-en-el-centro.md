@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yayo Herrero, Marta Pascual y María González Reyes, <i>La vida en el centro</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-07-30
 feature_image: images/posts/2022-07-30-296488209_756267229022673_6163656441584436331_n_17995226959497649.webp
 tags: [Yayo Herrero, Libros en Acción, teoría y ensayo feminista]

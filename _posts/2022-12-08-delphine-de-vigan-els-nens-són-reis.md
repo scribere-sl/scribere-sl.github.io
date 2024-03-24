@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Delphine de Vigan, <i>Els nens són reis</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-12-08
 feature_image: images/posts/2022-12-08-318450122_683057330011646_427967297217595354_n_17968699276989336.webp
 tags: [Delphine de Vigan, Edicions 62, narrativa]

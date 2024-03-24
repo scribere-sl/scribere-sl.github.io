@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rosa Montero, <i>El peligro de estar cuerda</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-03-25
 feature_image: images/posts/2023-03-25-328827438_3475037666152881_5830750607848059046_n_17981402543052974.webp
 tags: [Rosa Montero, Seix Barral, narrativa]

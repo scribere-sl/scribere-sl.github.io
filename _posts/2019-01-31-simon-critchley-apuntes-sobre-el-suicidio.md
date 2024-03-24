@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simon Critchley, <i>Apuntes sobre el suicidio</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-01-31
 feature_image: images/posts/2019-01-31-50601137_111770023275895_9003868388058826205_n_18012312427108597.jpg
 tags: [Simon Critchley, Alpha Decay, ensayo]

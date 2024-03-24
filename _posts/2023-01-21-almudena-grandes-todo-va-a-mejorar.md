@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Almudena Grandes, <i>Todo va a mejorar</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-01-21
 feature_image: images/posts/2023-01-21-326857845_500964982142981_3330158567365135266_n_18043147531406476.webp
 tags: [Almudena Grandes, Tusquets, narrativa]

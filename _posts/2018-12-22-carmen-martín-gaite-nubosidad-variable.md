@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Carmen Martín Gaite, <i>Nubosidad variable</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2018-12-22
 feature_image: images/posts/2018-12-22-47585958_382316995907319_5027176578460654062_n_17934461296246538.jpg
 tags: [Carmen Martín Gaite, Anagrama, narrativa]

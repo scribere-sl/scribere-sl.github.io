@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simone de Beauvoir, <i>Memorias de una joven formal</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-10-10
 feature_image: images/posts/2021-10-10-245153723_236065468396746_8447679721395280677_n_17905002815293109.webp
 tags: [Simone de Beauvoir, Edhasa, narrativa]

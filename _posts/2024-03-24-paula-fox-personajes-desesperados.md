@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paula Fox, <i>Personajes desesperados</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-03-24
 feature_image: images/posts/personajesdesesperados.jpg
 tags: [Paula Fox, Sexto Piso Editorial, narrativa]

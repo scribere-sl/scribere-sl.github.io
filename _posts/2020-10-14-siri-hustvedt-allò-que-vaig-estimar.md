@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Siri Hustvedt, <i>Allò que vaig estimar</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-10-14
 feature_image: images/posts/2020-10-14-121387178_352451702666379_4119502983603057931_n_17882822215785995.jpg
 tags: [Siri Hustvedt, Angle Editorial, narrativa]

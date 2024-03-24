@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laia Aguilar, <i>Pluja d'estels</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-09-30
 feature_image: images/posts/2020-09-30-120276880_192608532247287_1915074317927176316_n_17866439312076702.jpg
 tags: [Laia Aguilar, Destino, narrativa]

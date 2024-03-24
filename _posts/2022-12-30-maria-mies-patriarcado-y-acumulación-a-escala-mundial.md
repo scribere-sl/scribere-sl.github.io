@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maria Mies, <i>Patriarcado y acumulación a escala mundial</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-12-30
 feature_image: images/posts/2022-12-30-322342963_212609817823136_6536226267696789977_n_17946763949451499.webp
 tags: [Maria Mies, Traficantes de Sueños, teoría y ensayo feminista]

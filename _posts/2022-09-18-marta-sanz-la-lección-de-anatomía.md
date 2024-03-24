@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marta Sanz, <i>La lección de anatomía</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-09-18
 feature_image: images/posts/2022-09-18-307278951_161040916578885_5786790354920239539_n_17987255650603156.webp
 tags: [Marta Sanz, Anagrama, narrativa]

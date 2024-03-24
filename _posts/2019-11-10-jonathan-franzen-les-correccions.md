@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jonathan Franzen, <i>Les correccions</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-11-10
 feature_image: images/posts/2019-11-10-73425437_1280249605519398_8808272930526168692_n_17861636902571569.jpg
 tags: [Jonathan Franzen, Columna, narrativa]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Silvia Federici, <i>Calibán y la bruja, mujeres, cuerpo y acumulación originaria</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-09-02
 feature_image: images/posts/2022-09-02-304743325_791777275582130_947267939286726411_n_17957515792982219.webp
 tags: [Silvia Federici, Traficantes de Sueños, teoría y ensayo feminista]

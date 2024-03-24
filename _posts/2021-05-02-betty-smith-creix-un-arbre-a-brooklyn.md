@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Betty Smith, <i>Creix un arbre a Brooklyn</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-05-02
 feature_image: images/posts/2021-05-02-181184049_775297493147060_8129013575690907118_n_17901108403849947.jpg
 tags: [Betty Smith, L'Altra Editorial, narrativa]

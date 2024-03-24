@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vivian Gornick, <i>Mirar-nos de cara</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-09-24
 feature_image: images/posts/2020-09-24-120077567_1233399597035301_9052503655333625067_n_17896794484599219.jpg
 tags: [Vivian Gornick, L'Altra Editorial, teoría y ensayo feminista]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sylvia Plath, <i>La campana de vidre</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-08-27
 feature_image: images/posts/2023-08-27-371441308_288274173822921_5878615608318971070_n_17996622149124646.heic
 tags: [Sylvia Plath, Edicions del Periscopi, narrativa]

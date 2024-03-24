@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ottessa Moshfegh, <i>El meu any de repòs i relaxació</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-02-26
 feature_image: images/posts/2023-02-26-332897297_199135139370065_8347289903767806473_n_17919491237680354.webp
 tags: [Ottessa Moshfegh, Angle Editorial, narrativa]

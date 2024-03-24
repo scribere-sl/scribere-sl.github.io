@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vivian Gornick, <i>Vincles ferotges. La dona singular i la ciutat</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-07-06
 feature_image: images/posts/2021-07-06-210909975_917263965520267_7759069174350299268_n_17879902637405749.jpg
 tags: [Vivian Gornick, L'Altra Editorial, ensayo, maternidad o no]

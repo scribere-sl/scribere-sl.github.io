@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alejandro Palomas, <i>Això no es diu</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-11-05
 feature_image: images/posts/2023-11-05-399669914_674427311461851_6980898727027823739_n_17938566182750993.heic
 tags: [Alejandro Palomas, Columna, narrativa]

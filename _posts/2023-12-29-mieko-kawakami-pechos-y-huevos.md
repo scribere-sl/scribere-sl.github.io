@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mieko Kawakami, <i>Pechos y huevos</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-12-29
 feature_image: images/posts/2023-12-29-413427189_1075747750438774_8713623484105272795_n_18030129421759743.heic
 tags: [Mieko Kawakami, Seix Barral, narrativa, maternidad o no]

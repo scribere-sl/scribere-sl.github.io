@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marta Orriols, <i>Dolça introducció al caos</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-10-25
 feature_image: images/posts/2020-10-25-122727655_701155293836444_7248569001069821968_n_17869692479060133.jpg
 tags: [Marta Orriols, Edicions del Periscopi, narrativa, maternidad o no]

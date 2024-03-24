@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elisa Victoria, <i>El Evangelio</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-07-20
 feature_image: images/posts/2021-07-20-219577623_363033275167427_2578977963854814148_n_17926799212641688.jpg
 tags: [Elisa Victoria, Blackie Books, narrativa]

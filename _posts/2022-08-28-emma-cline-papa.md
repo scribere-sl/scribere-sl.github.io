@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emma Cline, <i>Papa</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-08-28
 feature_image: images/posts/2022-08-28-301994959_1105205480129741_7434684905090674040_n_17855304962799870.webp
 tags: [Emma Cline, Anagrama, narrativa]

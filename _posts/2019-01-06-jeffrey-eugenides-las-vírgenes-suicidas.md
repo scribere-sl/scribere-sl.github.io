@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jeffrey Eugenides, <i>Las vírgenes suicidas</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-01-06
 feature_image: images/posts/2019-01-06-47691841_2262857843927378_3216438566564010342_n_17995966360086199.jpg
 tags: [Jeffrey Eugenides, Anagrama, narrativa]

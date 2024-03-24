@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eva Meijer, <i>Los límites de mi lenguaje. Meditaciones sobre la depresión</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-09-19
 feature_image: images/posts/2021-09-19-242308310_835096363824641_3261366845525172564_n_17901409973239134.jpg
 tags: [Eva Meijer, Katz, ensayo]

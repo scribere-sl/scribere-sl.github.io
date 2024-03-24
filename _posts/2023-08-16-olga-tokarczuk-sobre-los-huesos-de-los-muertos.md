@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Olga Tokarczuk, <i>Sobre los huesos de los muertos</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-08-16
 feature_image: images/posts/2023-08-16-367564516_1006305947188724_8326742135934806387_n_17880991988920648.heic
 tags: [Olga Tokarczuk, Siruela, narrativa]

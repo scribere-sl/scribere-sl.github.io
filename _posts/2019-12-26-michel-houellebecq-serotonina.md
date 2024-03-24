@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Michel Houellebecq, <i>Serotonina</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-12-26
 feature_image: images/posts/2019-12-26-79454589_581633982402517_7872349594380425090_n_18076155712167496.jpg
 tags: [Michel Houellebecq, Anagrama, narrativa]

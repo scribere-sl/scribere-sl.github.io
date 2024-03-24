@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diversis autoris, <i>Guia gramatical de llenguatge no binari</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-01-21
 feature_image: images/posts/nobinari.jpg
 tags: [Diversis autoris, Raig Verd, lingüística]

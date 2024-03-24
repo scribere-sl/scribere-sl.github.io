@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brigitte Vasallo, <i>Pensamiento monógamo terror poliamoroso</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-04-05
 feature_image: images/posts/2020-04-05-92248547_116224433362725_3001369606233000385_n_18032076484254700.jpg
 tags: [Brigitte Vasallo, La Oveja Roja, teoría y ensayo feminista]

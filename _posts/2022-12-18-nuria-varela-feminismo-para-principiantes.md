@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nuria Varela, <i>Feminismo para principiantes</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-12-18
 feature_image: images/posts/2022-12-18-320548087_2610195725788913_5469176552440587103_n_18061770022357586.webp
 tags: [Nuria Varela, B de Bolsillo, teoría y ensayo feminista]

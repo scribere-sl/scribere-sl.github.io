@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cristina Peri Rossi, <i>Desastres íntimos</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-08-22
 feature_image: images/posts/2022-08-22-300410807_771520050765682_4750970405995884742_n_18218319427159990.webp
 tags: [Cristina Peri Rossi, Lumen, narrativa]

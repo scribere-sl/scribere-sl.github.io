@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vivian Gornick, <i>La fi de la novel·la d'amor</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-04-23
 feature_image: images/posts/2023-04-23-342387111_972862567066235_8065337641356780245_n_17975148257324623.heic
 tags: [Vivian Gornick, L'Altra Editorial, teoría y ensayo feminista]

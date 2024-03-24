@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kate Bolick, <i>Solterona</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2018-12-24
 feature_image: images/posts/2018-12-24-46466458_352138962243306_4419433693827690322_n_18014409097002624.jpg
 tags: [Kate Bolick, Malpaso, narrativa, teoría y ensayo feminista]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vanessa Springora, <i>El consentiment</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-01-03
 feature_image: images/posts/2021-01-03-135708409_1254222454959025_819792368255136902_n_17887768801878066.jpg
 tags: [Vanessa Springora, Empúries, narrativa]

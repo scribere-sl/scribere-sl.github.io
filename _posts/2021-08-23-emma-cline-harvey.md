@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emma Cline, <i>Harvey</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-08-23
 feature_image: images/posts/2021-08-23-240484438_119528917090458_4123124945467473415_n_18248332132021100.jpg
 tags: [Emma Cline, Anagrama, narrativa]

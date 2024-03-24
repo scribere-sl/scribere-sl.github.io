@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jenn Díaz, <i>Dona i poder</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-11-08
 feature_image: images/posts/2020-11-08-124367601_376831076850587_7021816389842597159_n_17879223838887460.jpg
 tags: [Jenn Díaz, Ara Llibres, teoría y ensayo feminista]

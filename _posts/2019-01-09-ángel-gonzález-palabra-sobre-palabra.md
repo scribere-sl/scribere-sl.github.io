@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ángel González, <i>Palabra sobre palabra</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-01-09
 feature_image: images/posts/2019-01-09-49304959_189703988654848_7731888316067664777_n_17902849837284147.jpg
 tags: [Ángel González, Austral, poesía]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Amélie Nothomb, <i>El viatge d'hivern</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-02-11
 feature_image: images/posts/2019-02-11-51944538_1073643059474937_3129225028006176191_n_18001520116183648.jpg
 tags: [Amélie Nothomb, Anagrama, narrativa]

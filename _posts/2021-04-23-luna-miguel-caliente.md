@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Luna Miguel, <i>Caliente</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-04-23
 feature_image: images/posts/2021-04-23-175988271_1148146038945652_375487556241788918_n_17905517389753757.jpg
 tags: [Luna Miguel, Lumen, ensayo]

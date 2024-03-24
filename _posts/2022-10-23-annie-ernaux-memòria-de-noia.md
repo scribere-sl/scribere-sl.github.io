@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Annie Ernaux, <i>Memòria de noia</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-10-23
 feature_image: images/posts/2022-10-23-312327119_2347887025387838_3192488832128524328_n_17864214524799294.webp
 tags: [Annie Ernaux, Angle Editorial, narrativa]

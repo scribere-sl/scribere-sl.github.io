@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Michel Houellebecq, <i>Plataforma</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-09-08
 feature_image: images/posts/2019-09-08-69751547_2365493670446245_1655100575285694433_n_17851169038567700.jpg
 tags: [Michel Houellebecq, Anagrama, narrativa]

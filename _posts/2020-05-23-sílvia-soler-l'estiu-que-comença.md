@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sílvia Soler, <i>L'estiu que comença</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-05-23
 feature_image: images/posts/2020-05-23-100984314_1566260296875967_8264674328749963493_n_17904148267461116.jpg
 tags: [Sílvia Soler, La Butxaca, narrativa]

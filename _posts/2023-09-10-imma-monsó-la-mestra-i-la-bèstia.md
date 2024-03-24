@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Imma Monsó, <i>La mestra i la Bèstia</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-09-10
 feature_image: images/posts/2023-09-10-376838057_270324649256207_302430686693976573_n_18020190871731910.heic
 tags: [Imma Monsó, Anagrama, narrativa]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marta Orriols, <i>Aprendre a parlar amb les plantes</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-03-20
 feature_image: images/posts/2019-03-20-54510906_125349958574305_3274520393126114998_n_18029749393101975.jpg
 tags: [Marta Orriols, Edicions del Periscopi, narrativa]

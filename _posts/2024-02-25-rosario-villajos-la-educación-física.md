@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rosario Villajos, <i>La educación física</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-02-25
 feature_image: images/posts/laeducacionfisica.jpg
 tags: [Rosario Villajos, Seix Barral, narrativa]

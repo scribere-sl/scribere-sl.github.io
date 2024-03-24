@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elena Medel, <i>Las maravillas</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-08-02
 feature_image: images/posts/2021-08-02-232162822_1503575519989811_5044326913828462836_n_18162498184088213.jpg
 tags: [Elena Medel, Anagrama, narrativa]

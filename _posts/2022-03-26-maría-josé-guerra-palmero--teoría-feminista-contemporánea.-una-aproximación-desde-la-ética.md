@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "María José Guerra Palmero , <i>Teoría feminista contemporánea. Una aproximación desde la ética</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-03-26
 feature_image: images/posts/2022-03-26-277293543_379282980720212_2885295383272906941_n_18011563345391434.webp
 tags: [María José Guerra Palmero, Editorial Complutense, teoría y ensayo feminista]

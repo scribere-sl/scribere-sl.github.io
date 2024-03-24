@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emmanuele Carrère, <i>Ioga</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-08-19
 feature_image: images/posts/2021-08-19-238834612_369541384743829_7984891248110644008_n_17926848580703077.jpg
 tags: [Emmanuele Carrère, Anagrama, narrativa]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ali Smith, <i>Tardor</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-03-14
 feature_image: images/posts/2021-03-14-161044787_1371122909937816_2354037710154507853_n_17928666733515724.jpg
 tags: [Ali Smith, Raig Verd, narrativa]

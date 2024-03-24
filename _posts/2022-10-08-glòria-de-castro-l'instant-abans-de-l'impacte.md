@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Glòria de Castro, <i>L'instant abans de l'impacte</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-10-08
 feature_image: images/posts/2022-10-08-310786919_384935613853546_6646920827135108332_n_17842601717868145.webp
 tags: [Glòria de Castro, Edicions del Periscopi, narrativa]

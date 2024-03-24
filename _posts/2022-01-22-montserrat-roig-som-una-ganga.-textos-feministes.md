@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Montserrat Roig, <i>Som una ganga. Textos feministes</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-01-22
 feature_image: images/posts/2022-01-22-272229110_163389402688165_467797840541387578_n_17949687646651888.webp
 tags: [Montserrat Roig, Comanegra, teoría y ensayo feminista]

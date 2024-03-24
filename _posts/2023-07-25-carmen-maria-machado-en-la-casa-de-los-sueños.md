@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Carmen Maria Machado, <i>En la casa de los sueños</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-07-25
 feature_image: images/posts/2023-07-25-362644609_662695225736070_6911367466712745916_n_18229672375229161.heic
 tags: [Carmen Maria Machado, Anagrama, narrativa]

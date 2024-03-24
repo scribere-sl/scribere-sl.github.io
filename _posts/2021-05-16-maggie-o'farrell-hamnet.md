@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maggie O'Farrell, <i>Hamnet</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-05-16
 feature_image: images/posts/2021-05-16-185849802_836279243937414_568077001888373708_n_17898977869998832.jpg
 tags: [Maggie O'Farrell, L'Altra Editorial, narrativa]

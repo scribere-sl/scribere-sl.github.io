@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simone de Beauvoir, <i>Les inseparables</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-06-02
 feature_image: images/posts/2021-06-02-195903627_757229718229981_4448866349507798118_n_17915893720738772.jpg
 tags: [Simone de Beauvoir, Angle Editorial, narrativa]

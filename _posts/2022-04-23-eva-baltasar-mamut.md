@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eva Baltasar, <i>Mamut</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-04-23
 feature_image: images/posts/2022-04-23-279119617_1634343576899276_4653035406181003632_n_18292395787018511.webp
 tags: [Eva Baltasar, Club Editor, narrativa]

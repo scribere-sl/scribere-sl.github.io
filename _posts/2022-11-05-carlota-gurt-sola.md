@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Carlota Gurt, <i>Sola</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-11-05
 feature_image: images/posts/2022-11-05-314608349_505943728120260_5080077553803702675_n_18265846978103249.webp
 tags: [Carlota Gurt, Edicions Proa, narrativa]

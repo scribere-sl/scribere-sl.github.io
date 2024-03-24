@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eva Baltasar, <i>Boulder</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-02-07
 feature_image: images/posts/2021-02-07-146755405_453465239122020_4354467334102390172_n_17900135554748319.jpg
 tags: [Eva Baltasar, Club Editor, narrativa]

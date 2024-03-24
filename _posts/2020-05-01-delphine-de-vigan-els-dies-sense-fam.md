@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Delphine de Vigan, <i>Els dies sense fam</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-05-01
 feature_image: images/posts/2020-05-01-95218778_221228039329979_7404226109479419389_n_17857128235926548.jpg
 tags: [Delphine de Vigan, Edicions 62, narrativa]

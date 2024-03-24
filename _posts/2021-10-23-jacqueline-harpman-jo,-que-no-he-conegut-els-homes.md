@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jacqueline Harpman, <i>Jo, que no he conegut els homes</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-10-23
 feature_image: images/posts/2021-10-23-248086729_933800707210995_1747940394464328679_n_17881544975530031.webp
 tags: [Jacqueline Harpman, Edicions del Periscopi, narrativa]

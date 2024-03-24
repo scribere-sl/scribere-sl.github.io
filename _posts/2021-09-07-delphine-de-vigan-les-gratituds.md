@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Delphine de Vigan, <i>Les gratituds</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-09-07
 feature_image: images/posts/2021-09-07-241379052_134484575561607_5377455565424272889_n_18132469003224783.jpg
 tags: [Delphine de Vigan, Edicions 62, narrativa]

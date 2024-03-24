@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jonathan Franzen, <i>Pureza</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-01-27
 feature_image: images/posts/2019-01-27-49714204_2626594470714476_6859744863335607455_n_17963460595215606.jpg
 tags: [Jonathan Franzen, Salamandra, narrativa]

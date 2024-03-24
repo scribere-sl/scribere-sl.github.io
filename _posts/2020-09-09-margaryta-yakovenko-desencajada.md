@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Margaryta Yakovenko, <i>Desencajada</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-09-09
 feature_image: images/posts/2020-09-09-119058822_791565338326810_4040985846248844729_n_17878240396836953.jpg
 tags: [Margaryta Yakovenko, Caballo de Troya, narrativa]

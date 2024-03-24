@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jane Smiley, <i>Heredarás la tierra</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-11-19
 feature_image: images/posts/2023-11-19-403846206_250583067691107_8503225317119407620_n_18000576809203646.heic
 tags: [Jane Smiley, Sexto Piso, narrativa]

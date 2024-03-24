@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jeanette Winterson, <i>¿Por qué ser feliz cuando puedes ser normal? </i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-01-02
 feature_image: images/posts/2019-01-02-47689721_126287668403093_4020324502538355051_n_17953532251216018.jpg
 tags: [Jeanette Winterson, Lumen, narrativa, teoría y ensayo feminista]

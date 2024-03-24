@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nuria Varela, <i>Feminismo 4.0. La cuarta ola</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-03-08
 feature_image: images/posts/2022-03-08-275414896_631280734599904_5369370307730560843_n_17932913048060988.webp
 tags: [Nuria Varela, Ediciones B, teoría y ensayo feminista]

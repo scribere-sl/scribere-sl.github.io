@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alba Dalmau, <i>Estàndards</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-05-10
 feature_image: images/posts/2020-05-10-95865043_247612329927394_5692704097927320757_n_18141701830015391.jpg
 tags: [Alba Dalmau, Angle Editorial, narrativa]

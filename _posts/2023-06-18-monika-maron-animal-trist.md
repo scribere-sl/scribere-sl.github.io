@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monika Maron, <i>Animal trist</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-06-18
 feature_image: images/posts/2023-06-18-355159852_1720224591757349_4470042315544441243_n_17961016301600577.heic
 tags: [Monika Maron, Club Editor, narrativa]

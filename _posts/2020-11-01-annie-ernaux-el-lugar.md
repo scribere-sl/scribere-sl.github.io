@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Annie Ernaux, <i>El lugar</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-11-01
 feature_image: images/posts/2020-11-01-123144099_1103357440079594_2135272396296481610_n_17908000567533540.jpg
 tags: [Annie Ernaux, Tusquets, narrativa]

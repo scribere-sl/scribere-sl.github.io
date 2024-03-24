@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Raymond Carver, <i>De qué hablamos cuando hablamos de amor</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-07-11
 feature_image: images/posts/2021-07-11-213218025_504515927482077_2990512634294647579_n_18239582197005660.jpg
 tags: [Raymond Carver, Anagrama, narrativa]

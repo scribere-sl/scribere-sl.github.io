@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paula Bonet, <i>La Anguila</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-08-12
 feature_image: images/posts/2021-08-12-235643595_363085241940038_8083224969383670976_n_17897865662304034.jpg
 tags: [Paula Bonet, Anagrama, narrativa, teoría y ensayo feminista]

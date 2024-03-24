@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lucy Caldwell, <i>Intimitats</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-07-30
 feature_image: images/posts/2023-07-30-363509520_742425310976088_1918996353913149954_n_17962076084619026.heic
 tags: [Lucy Caldwell, Univers Llibres, narrativa]

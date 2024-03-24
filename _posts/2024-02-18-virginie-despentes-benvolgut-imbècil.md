@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Virginie Despentes, <i>Benvolgut imbècil</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-02-18
 feature_image: images/posts/benvolgutimbecil.jpg
 tags: [Virginie Despentes, Sembra Llibres, novela epistolar, teoría y ensayo feminista]

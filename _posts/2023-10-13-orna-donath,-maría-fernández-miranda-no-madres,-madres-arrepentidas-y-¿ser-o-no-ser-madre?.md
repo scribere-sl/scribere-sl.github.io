@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Orna Donath, María Fernández-Miranda, <i>No madres, Madres arrepentidas y ¿Ser o no ser madre?</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-10-13
 feature_image: images/posts/2023-10-13-387815994_291766803732149_6145261966156578974_n_17981420561314701.heic
 tags: [Orna Donath, Reservoir, Mapas Colectivos, Plaza y Janés, maternidad o no, maternidad o no]

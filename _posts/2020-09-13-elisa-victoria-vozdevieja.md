@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elisa Victoria, <i>Vozdevieja</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-09-13
 feature_image: images/posts/2020-09-13-119230648_3394322744098063_417984895964373028_n_17843890361341007.jpg
 tags: [Elisa Victoria, Blackie Books, narrativa]

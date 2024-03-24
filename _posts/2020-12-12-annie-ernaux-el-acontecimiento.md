@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Annie Ernaux, <i>El acontecimiento</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-12-12
 feature_image: images/posts/2020-12-12-130299507_870655423762872_6902973373435458264_n_17846171963492399.jpg
 tags: [Annie Ernaux, Tusquets, narrativa]

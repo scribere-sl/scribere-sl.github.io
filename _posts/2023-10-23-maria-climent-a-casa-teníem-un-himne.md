@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maria Climent, <i>A casa teníem un himne</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2023-10-23
 feature_image: images/posts/2023-10-23-395355377_344006658142290_7415549115933544461_n_18026498635664238.heic
 tags: [Maria Climent, L'Altra Editorial, narrativa]

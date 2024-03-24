@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cèlia Amorós y Ana de Miguel, <i>Teoría feminista (1, 2 y 3)</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-01-16
 feature_image: images/posts/2022-01-16-271916277_333201742022973_6446745952823428829_n_17915204018206543.webp
 tags: [Cèlia Amorós y Ana de Miguel, Biblioteca Nueva, teoría y ensayo feminista]

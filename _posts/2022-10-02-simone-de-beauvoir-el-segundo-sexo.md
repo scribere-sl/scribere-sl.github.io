@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simone de Beauvoir, <i>El segundo sexo</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2022-10-02
 feature_image: images/posts/2022-10-02-310319654_182811877651916_6595947685963992955_n_17913285542630826.webp
 tags: [Simone de Beauvoir, Cátedra, teoría y ensayo feminista]

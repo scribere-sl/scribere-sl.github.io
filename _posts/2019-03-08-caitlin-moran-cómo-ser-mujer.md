@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Caitlin Moran, <i>Cómo ser mujer</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-03-08
 feature_image: images/posts/2019-03-08-52768877_184869322489639_7785520265182376099_n_17923755937284497.jpg
 tags: [Caitlin Moran, Anagrama, teoría y ensayo feminista, maternidad o no]

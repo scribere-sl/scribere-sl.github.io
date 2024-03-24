@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emma Cline, <i>Las chicas</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2019-04-23
 feature_image: images/posts/2019-04-23-58410367_132186187891979_5179392129574411392_n_17887265674323805.jpg
 tags: [Emma Cline, Anagrama, narrativa]

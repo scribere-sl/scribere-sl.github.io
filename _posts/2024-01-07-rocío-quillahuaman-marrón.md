@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rocío Quillahuaman, <i>Marrón</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-01-07
 feature_image: images/posts/2024-01-07-417135275_744877130442520_3753918588822317825_n_18055891531520062.heic
 tags: [Rocío Quillahuaman, Blackie Books, narrativa]

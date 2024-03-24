@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mary Beard, <i>La veu i el poder de les dones</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-11-25
 feature_image: images/posts/2020-11-25-126282768_399310781267389_358910574615329400_n_17945390572388823.jpg
 tags: [Mary Beard, Arcàdia, teoría y ensayo feminista]

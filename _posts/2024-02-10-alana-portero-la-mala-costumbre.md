@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alana Portero, <i>La mala costumbre</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-02-10
 feature_image: images/posts/malacostumbre.jpg
 tags: [Alana Portero, Seix Barral, narrativa, El Club de la Tribu]

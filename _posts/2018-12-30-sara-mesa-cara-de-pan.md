@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sara Mesa, <i>Cara de pan</i>"
-description: "TODO"
+description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2018-12-30
 feature_image: images/posts/2018-12-30-47689741_2255547688037743_7036251025402055719_n_18001315162129252.jpg
 tags: [Sara Mesa, Anagrama, narrativa]

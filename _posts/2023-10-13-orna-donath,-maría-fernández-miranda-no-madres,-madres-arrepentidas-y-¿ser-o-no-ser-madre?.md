@@ -15,7 +15,10 @@ tags: [Orna Donath, Reservoir, Mapas Colectivos, Plaza y Janés, maternidad o no
 🛝 ‘SER O NO SER MADRE’: todas las culturas asocian feminidad con maternidad, si eres mujer debes ser madre. En este contexto, ¿cómo se afronta la libertad de elección? Donath alza la voz para reivindicar la libre elección y para provocar un debate sincero sobre la maternidad, y afirma: «Deseo vivir en una sociedad en la que pueda no ser madre y marcharme a mi casa a tirar aviones de papel. No tengo por qué ser doctora ni escritora. No quiero que lo importante sea lo que hago, sino lo que soy».
 
 ‘NO MADRES’: Fernández-Miranda pasó por siete fecundaciones in vitro y no ha tenido hijos. Pero en su libro no comparte el dolor sino el aprendizaje y, con la ligereza de quien ha atravesado y superado el sufrimiento y el tono fresco de las revistas femeninas en las que trabaja, escribe contra los tópicos de las mujeres sin hijos. Las experiencias de no maternidad están aún más silenciadas que las de maternidad, por eso la autora muestra la historia de mujeres que no han querido o no han podido ser madres y que son razonablemente felices.
+![No madres](https://github.com/scribere-sl/scribere-sl.github.io/assets/157309849/28237703-b209-4d3b-a42c-a6c512ca2181)
+
 
 ‘MADRES ARREPENTIDAS’: la sociedad retrata la no maternidad como algo lamentable y se dice que las mujeres que no quieren tener hijos se arrepentirán de no tenerlos. Pero también hay madres que se arrepienten de serlo, y Donath demuestra que poder hablar de ello crea alivio a las madres arrepentidas. Las emociones son un medio para manifestarse contra los sistemas de poder, de modo que el arrepentimiento debe instar a las sociedades a ponérselo más fácil a las madres y a replantear las políticas de reproducción y las ideas sobre la necesidad de ser madre.
+![Madres arrepentidas](https://github.com/scribere-sl/scribere-sl.github.io/assets/157309849/abe040c4-1589-4648-a427-5066d6fada29)
 
 En este post falta un ejemplo de madres satisfechas, ¿me recomendáis alguno? 🛝

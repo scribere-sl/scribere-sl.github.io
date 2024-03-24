@@ -2,7 +2,7 @@
 layout: post
 title: "Alana Portero, <i>La mala costumbre</i>"
 description: "TODO"
-date: 2020-08-16
+date: 2024-08-16
 feature_image: images/posts/mala costumbre.jpg
 tags: [Alana Portero, Seix Barral, narrativa]
 ---

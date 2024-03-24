@@ -4,7 +4,7 @@ title: "Alana Portero, <i>La mala costumbre</i>"
 description: "TODO"
 date: 2024-08-16
 feature_image: images/posts/mala costumbre.jpg
-tags: [Alana Portero, Seix Barral, narrativa]
+tags: [Alana Portero, Seix Barral, narrativa, El Club de la Tribu]
 ---
 
 «Desde que fui capaz de estructurar pensamiento quise contarle que yo no era enteramente yo»
@@ -12,7 +12,7 @@ tags: [Alana Portero, Seix Barral, narrativa]
 
 #AlanaSPortero #Lamalacostumbre @seix_barral #elclubdelatribu @unacasapropia #leoautoras #novela
 
-👠 Este año me estreno en #elclubdelatribu, de @carmengdelacueva, y el primer libro del 2024 ha sido ‘La mala costumbre’, en el que Alana S. Portero narra el viaje de una niña trans hasta la edad adulta. Sin embargo, la novela trasciende el tema trans y pone ante nuestros ojos a la sociedad que no acepta a los que son diferentes.
+👠 Este año me estreno en El Club de la Tribu, de Carmen G. de la Cueva, y el primer libro del 2024 ha sido ‘La mala costumbre’, en el que Alana S. Portero narra el viaje de una niña trans hasta la edad adulta. Sin embargo, la novela trasciende el tema trans y pone ante nuestros ojos a la sociedad que no acepta a los que son diferentes.
 
 Portero, con una generosidad hermosa y una prosa capaz de contener dolor y belleza a partes iguales, pone el humilde barrio madrileño de San Blas en el centro de una nueva geografía y convierte en heroínas y maestras a personajes que normalmente quedan relegados a las sombras, a permanecer en el reverso de la vida.
 

@@ -4,7 +4,7 @@ title: "Sylvia Plath"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-03-13
 feature_image: images/posts/Plath.jpg
-tags: [Sylvia Plath, narrativa, poesía]
+tags: [Sylvia Plath, El Club de la Tribu, narrativa, poesía]
 ---
 
 I didn’t want any flowers, I only wanted

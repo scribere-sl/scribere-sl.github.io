@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Belen García Abia, <i>El cielo oblicuo</i>"
+title: "Belén García Abia, <i>El cielo oblicuo</i>"
 description: "TODO"
 date: 2023-08-21
 feature_image: images/posts/2023-08-21-369097783_1430659771088558_4719194506742599679_n_17978344661258980.heic

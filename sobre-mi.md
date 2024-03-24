@@ -15,6 +15,6 @@ Scribere (Sonia de Luis-Servicios Lingüísticos) se puso en marcha en el 2014 c
 
 En los últimos años he estudiado el Máster de Comunicación Corporativa, Protocolo y Eventos en la Universidad Abierta de Cataluña, que me permitió iniciar una [investigación](investigacion) sobre comunicación política desde un punto de vista feminista, que continué en el Programa de Doctorado en Comunicación de la Universidad Pompeu Fabra.
 
-He escrito poemarios (No pasa nada, Todo pasa, Poemas en ruso y El cuerpo, inéditos), tengo algunas novelas iniciadas y leo y reseño los libros que me gustan en [@noterminesloslibros](no-termines-los-libros/).
+He escrito poemarios (*No pasa nada*, *Todo pasa*, *Poemas en ruso* y *El cuerpo*, inéditos), tengo algunas novelas iniciadas y comparto los libros que me gustan en [@noterminesloslibros](no-termines-los-libros/).
 
 Contacto: [soniadeluisrosell@gmail.com](mailto:soniadeluisrosell@gmail.com)

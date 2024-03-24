@@ -16,4 +16,4 @@ tags: [Paula Vidal, Estrella Polar Editorial, novela juvenil]
 
 Amb un llenguatge fresc i juvenil, amb imatges plàstiques que ens transporten a l’adolescència i les seves emocions i, sobretot, amb una gran tendresa, Paula Vidal dibuixa dos personatges rodons que s’escapen de les pàgines del llibre, que corren els seus propis riscos sense retre comptes a ningú i que ens recorden que quan el camí es fa pesat ens tenim els uns als altres per compartir la càrrega.
 
-No acostumo a compartir aquí novel·les juvenils, però sé que l’autora d’‘Inversemblant’ ha estimat molt les paraules i ha picat molta pedra perquè la seva primera novel·la s’hagi fet un lloc a les estanteries de les llibreries i als cors dels lectors. Que sigui la primera de moltes, Paula! 👩🏽‍🦳
+No acostumo a compartir aquí novel·les juvenils, però sé que l’autora d’‘Inversemblant’ ha estimat molt les paraules i ha picat molta pedra perquè la seva primera novel·la s’hagi fet un lloc a les estanteries de les llibreries i als cors dels lectors. Que sigui la primera de moltes, Paula! 👩🏽‍🦳 

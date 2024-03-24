@@ -4,7 +4,7 @@ title: "Calota Gurt , <i>Sola</i>"
 description: "TODO"
 date: 2022-11-05
 feature_image: images/posts/2022-11-05-314608349_505943728120260_5080077553803702675_n_18265846978103249.webp
-tags: [Calota Gurt, Edicions Proa, narrativa]
+tags: [Carlota Gurt, Edicions Proa, narrativa]
 ---
 
 «En el fons, sempre es tracta d’això: intentar oposar-se a les forces que ens xuclen, que ens dobleguen, que ens esclafen»

@@ -16,8 +16,4 @@ tags: [Nuria Varela, Ediciones B, teoría y ensayo feminista]
 
 ‘Feminismo 4.0. La cuarta ola’ repasa las tres olas anteriores para centrarse en el feminismo del momento actual, que gracias al legado y la genealogía feminista y también a la fuerza de las generaciones más jóvenes, confronta como nunca al patriarcado. En la cuarta ola confluyen el posfeminismo, los feminismos poscoloniales, la teoría queer, el transfeminismo, la interseccionalidad, la biopolítica y el ecofeminismo, y a la lucha contra el patriarcado se añaden la lucha contra el fascismo y contra las políticas neoliberales.
 
-El grito del 8M trae esperanza: como dice Celia Amorós, el feminismo ha mejorado todas las sociedades en las que se ha implantado, y
-
- #mscaitlinmoran
-
- añade: «No sé si podemos seguir hablando de “olas” dentro del movimiento feminista. Según mis cálculos la próxima sería la quinta; y sospecho que es más o menos en la quinta ola cuando uno deja de referirse a olas individuales para decir sencillamente que la marea sube». 🌊
+El grito del 8M trae esperanza: como dice Celia Amorós, el feminismo ha mejorado todas las sociedades en las que se ha implantado, y #mscaitlinmoran añade: «No sé si podemos seguir hablando de “olas” dentro del movimiento feminista. Según mis cálculos la próxima sería la quinta; y sospecho que es más o menos en la quinta ola cuando uno deja de referirse a olas individuales para decir sencillamente que la marea sube». 🌊

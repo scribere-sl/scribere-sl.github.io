@@ -16,8 +16,6 @@ tags: [Valérie Mréjen, Periférica, maternidad o no, narrativa]
 
 Poco a poco el bebé, con ojos y orejas que al principio no captan significados pero sí que están interesados en la información, se revela: “ahora existo y antes no existía”, su mirada se vuelve entusiasta, salta y se ríe, lo llena todo de alborozo, sus gestos son voluntarios, directos, radicales. La madre, con la piel de gallina al ver a su hijita entusiasmada y feliz, entenderá que la niña con sus pasitos construye su propio camino. 
 
-Quienes sostienen el libro son mis queridísimas Irene y su hija. Si os interesan los escritos sobre maternidad, posparto y creación, no os perdáis su cuenta:
-
- #quiero_y_no.
+Quienes sostienen el libro son mis queridísimas Irene y su hija. Si os interesan los escritos sobre maternidad, posparto y creación, no os perdáis su cuenta: #quiero_y_no.
 
  La escritura de Irene es honesta, sabia y bella, con sus palabras se construye a sí misma como mujer tierna y a la vez fuerte, tiene el poder de capturar el instante y de celebrarlo, y lo ofrece como quien invita a helado. 👨‍👩‍👧

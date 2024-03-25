@@ -12,10 +12,10 @@ tags: [Emmanuele Carrère, Anagrama, narrativa]
 
 #EmmanueleCarrere #Ioga #anagramaeditor #Yoga #Premioprincesadeasturiasdelasletras2021
 
-🧘🏽‍♂️ Jo tenia un professor de ioga que deia que ja que mentre vivim ens anem instal•lant softwares, per què no instal•lar-nos el software del ioga i la meditació.
+🧘🏽‍♂️ Jo tenia un professor de ioga que deia que ja que mentre vivim ens anem instal·lant softwares, per què no instal·lar-nos el software del ioga i la meditació.
 
-Carrère, que té aquest software instal•lat, explica una època dolorosa de la seva vida, alhora que mostra en què consisteix la meditació: observar la nostra activitat mental, tot el que ens passa, examinar i acceptar la persona que som realment i trobar en el propi interior un espai on s'està bé. Estar bé perquè ets aquí.
+Carrère, que té aquest software instal·lat, explica una època dolorosa de la seva vida, alhora que mostra en què consisteix la meditació: observar la nostra activitat mental, tot el que ens passa, examinar i acceptar la persona que som realment i trobar en el propi interior un espai on s'està bé. Estar bé perquè ets aquí.
 
 Malgrat aquest intent de construir una serenitat meravellada, la vida de Carrère no està exempta de caigudes i depressions. I, tot i el dolor, aquest és un llibre lluminós, que demostra que la joia pura és tan certa com l'ombra, que la vida està bé. 
 
-D'altra banda, un dels fonaments del llibre, que fa que sigui interessant també per als qui no practiquen ioga o meditació, és que mostra amb naturalitat i intel•ligència el procés d'escriptura, els bastiments del text, la reflexió metaliterària i el progrés, perquè sempre es progressa quan es treballa. 🧘🏽‍♂️
+D'altra banda, un dels fonaments del llibre, que fa que sigui interessant també per als qui no practiquen ioga o meditació, és que mostra amb naturalitat i intel·ligència el procés d'escriptura, els bastiments del text, la reflexió metaliterària i el progrés, perquè sempre es progressa quan es treballa. 🧘🏽‍♂️

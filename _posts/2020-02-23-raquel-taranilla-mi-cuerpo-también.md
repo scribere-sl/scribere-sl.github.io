@@ -7,24 +7,8 @@ feature_image: images/posts/2020-02-23-87221602_194157548316967_7022897569135465
 tags: [Raquel Taranilla, Los Libros del Lince, Seix Barral, ensayo]
 ---
 
-Recibimos con alegría la noticia de que
-<!--more-->
-
-#RaquelTaranilla
-
-es la ganadora del
-
- #PremioBibliotecaBreve
-
- de este año. Mientras esperamos
-
- #Nocheyocéano,
-
- releemos
-
- #Micuerpotambién,
-
- una mirada lúcida sobre el dolor de la enfermedad, un libro brillante que no deja indiferente.
-
+Recibimos con alegría la noticia de que #RaquelTaranilla es la ganadora del #PremioBibliotecaBreve de este año. Mientras esperamos #Nocheyocéano, releemo #Micuerpotambién, una mirada lúcida sobre el dolor de la enfermedad, un libro brillante que no deja indiferente.
 
 #RaquelTaranilla #Micuerpotambién #loslibrosdellince
+
+<!--more-->

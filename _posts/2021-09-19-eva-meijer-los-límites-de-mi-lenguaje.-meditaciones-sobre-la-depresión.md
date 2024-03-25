@@ -12,11 +12,7 @@ tags: [Eva Meijer, Katz, ensayo]
 
 #EvaMeijer #Loslímitesdemilenguaje #Meditacionessobreladepresión #KatzEditores #Degrenzenvanmijntaal #ensayo #filosofía #depresión #leoautoras
 
-🌱 Cada vez que iba a
-
- #llibreria.finestres
-
- este libro me miraba desde la estantería, y la última vez se vino conmigo.
+🌱 Cada vez que iba a #llibreria.finestres este libro me miraba desde la estantería, y la última vez se vino conmigo.
 
 Las enfermedades físicas pueden entenderse: un número alarmante en los resultados del análisis, una ecografía que te muestra lo que está mal dentro de ti… Las enfermedades mentales son más difíciles de entender: rozan la locura, son la locura, y la locura no puede explicarse.
 

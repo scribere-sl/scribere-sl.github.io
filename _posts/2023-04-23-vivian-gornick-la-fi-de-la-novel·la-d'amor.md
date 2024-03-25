@@ -10,13 +10,7 @@ tags: [Vivian Gornick, L'Altra Editorial, teoría y ensayo feminista]
 «Si avui dia poses l’amor romàntic al centre d’una novel·la, qui creurà que en la seva recerca els personatges arribaran a entendre res d’important?»
 <!--more-->
 
-#VivianGornick #Lafidelanoveladamor #laltraeditorial #Theendofthenoveloflove #elfindelanoveladeamor #críticaliteraria
-
-literaria
-
- #llegeixoautores #nationalbookcriticscircleawards
-#literatura #SantJordi #SantJordi2023
-
+#VivianGornick #Lafidelanoveladamor #laltraeditorial #Theendofthenoveloflove #elfindelanoveladeamor #críticaliteraria #llegeixoautores #nationalbookcriticscircleawards #literatura #SantJordi #SantJordi2023
 
 
 🌹📚 Els llibres de Vivian Gornick no se’m fan fàcils de llegir, em demanen un esforç, una mica de paciència. Però el que hi descobreixo, el que n’aprenc, em canvia: després de llegir-los sé coses que abans no sabia, em serveixen per entendre.

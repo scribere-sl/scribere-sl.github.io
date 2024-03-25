@@ -12,4 +12,4 @@ tags: [Annie Ernaux, Angle Editorial, narrativa]
 
 #AnnieErnaux #Elsanys #Angle_Editorial #LesAnnées #Losaños #unveranofrancés #loslibrosdeluna #llegirencatalà
 
-«Totes les imatges desapareixeran» és l’afirmació amb què Annie Ernaux obre ‘Els anys’. I entre el seguit d’imatges que desapareixeran esmenta «la platja d’Arenys de Mar al costat d’una via de tren». Aquesta referència ens ha cridat l’atenció; si a vosaltres també, aquí en trobareu l’explicació: https://www.lavanguardia.com/cultura/culturas/20190928/47666403781/annie-ernaux-formentor-arenys-de-mar.html
+«Totes les imatges desapareixeran» és l’afirmació amb què Annie Ernaux obre ‘Els anys’. I entre el seguit d’imatges que desapareixeran esmenta «la platja d’Arenys de Mar al costat d’una via de tren». Aquesta referència ens ha cridat l’atenció; si a vosaltres també, aquí en trobareu l’explicació: [https://www.lavanguardia.com/cultura/culturas/20190928/47666403781/annie-ernaux-formentor-arenys-de-mar.html](https://www.lavanguardia.com/cultura/culturas/20190928/47666403781/annie-ernaux-formentor-arenys-de-mar.html).

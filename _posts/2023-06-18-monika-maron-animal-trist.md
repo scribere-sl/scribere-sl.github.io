@@ -12,7 +12,7 @@ tags: [Monika Maron, Club Editor, narrativa]
 
 #MonikaMaron #Animaltrist #elclubeditor #Animaltriste #novela #llegeixoautores
 
-🦖 'Post coitum omne animal triste est': és en aquesta tristesa de després de la set de l'amor en què la novel•la s'avenca per refer la vida que va articular l'espai entre els ossos i els esquelets. 
+🦖 'Post coitum omne animal triste est': és en aquesta tristesa de després de la set de l'amor en què la novel·la s'avenca per refer la vida que va articular l'espai entre els ossos i els esquelets. 
 
 Amb 'Animal trist' acompanyem la narradora en el seu camí per la memòria per reviure el temps passat amb el darrer amant, per culpa de qui es va retirar del món. Ara viu reclosa pensant en ell. 
 

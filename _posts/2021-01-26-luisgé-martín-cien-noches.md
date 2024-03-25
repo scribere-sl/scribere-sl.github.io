@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luisgé Martín, <i>Cien Noches</i>"
+title: "Luisgé Martín, <i>Cien noches</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2021-01-26
 feature_image: images/posts/2021-01-26-142412633_739252213690804_4590850753760150503_n_17897283337801082.jpg

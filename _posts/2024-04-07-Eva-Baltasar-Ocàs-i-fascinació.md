@@ -3,7 +3,7 @@ layout: post
 title: "Eva Baltasar, <i>Ocàs i fascinació</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-04-07
-feature_image: images/posts/ocàsifascinació.jpg
+feature_image: images/posts/ocasifascinacio.jpg
 tags: [Eva Baltasar, Club Editor, narrativa]
 ---
 

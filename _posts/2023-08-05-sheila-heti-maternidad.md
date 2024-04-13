@@ -12,11 +12,7 @@ tags: [Sheila Heti, Lumen, narrativa, teoría y ensayo feminista, maternidad o n
 
 #SheilaHeti #Maternidad #Lumen
 
-💜 En la vida, y en los libros, los hijos aparecen en la historia de la gente como si fuera fácil y trivial tomar la decisión que todo el mundo reconoce como una de las más trascendentales. Le decía a
-
- #quiero_y_no
-
- que necesitaba un libro sobre cómo decidir tener hijos y me prestó ‘Maternidad’. 
+💜 En la vida, y en los libros, los hijos aparecen en la historia de la gente como si fuera fácil y trivial tomar la decisión que todo el mundo reconoce como una de las más trascendentales. Le decía a #quiero_y_no que necesitaba un libro sobre cómo decidir tener hijos y me prestó ‘Maternidad’. 
 
 La narradora se aproxima a los 40, el tiempo apremia y tener un hijo le parece tan sorprendente, improbable y especial como no tenerlo.
 

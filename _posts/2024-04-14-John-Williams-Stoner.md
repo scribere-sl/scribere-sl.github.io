@@ -4,7 +4,7 @@ title: "John Williams, <i>Stoner</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-04-14
 feature_image: images/posts/stoner.jpg
-tags: [John Williams, Stoner, Edicions 62 narrativa]
+tags: [John Williams, Stoner, Edicions 62, narrativa]
 ---
 
 «L’amor per la literatura, pel llenguatge, pel misteri de la ment i del cor, manifestant-se en la insignificant, estranya i inesperada combinació de lletres i paraules»

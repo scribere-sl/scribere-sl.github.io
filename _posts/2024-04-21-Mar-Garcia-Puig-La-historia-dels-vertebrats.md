@@ -2,7 +2,7 @@
 layout: post
 title: "Mar García Puig, <i>La història dels vertebrats</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
-date: 2024-04-07
+date: 2024-04-21
 feature_image: images/posts/vertebrats.jpg
 tags: [Mar García Puig, La Magrana, assaig]
 ---

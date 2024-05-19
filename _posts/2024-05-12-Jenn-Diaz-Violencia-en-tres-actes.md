@@ -3,7 +3,7 @@ layout: post
 title: "Jenn Díaz, <i>Violència en tres actes</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-05-12
-feature_image: images/posts/JennDiaz.jpg
+feature_image: images/posts/jenndiaz.jpg
 tags: [Jenn Diaz, La Magrana, assaig]
 ---
 

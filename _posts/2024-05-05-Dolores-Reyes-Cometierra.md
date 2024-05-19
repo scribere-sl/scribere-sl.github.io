@@ -2,7 +2,7 @@
 layout: post
 title: "Dolores Reyes, <i>Cometierra</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
-date: 2024-04-21
+date: 2024-05-05
 feature_image: images/posts/cometierra.jpg
 tags: [Dolores Reyes, Sigilio, novela]
 ---

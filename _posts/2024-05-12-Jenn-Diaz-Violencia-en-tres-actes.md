@@ -4,7 +4,7 @@ title: "Jenn Díaz, <i>Violència en tres actes</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-05-12
 feature_image: images/posts/JennDiaz.jpg
-tags: [Mar García Puig, La Magrana, assaig]
+tags: [Jenn Diaz, La Magrana, assaig]
 ---
 
 «El fet d’haver estat víctima no només mereix ser dignificat i entès des de la força i la vitalitat, sinó que és una vivència molt allunyada de la passivitat que se li atribueix»

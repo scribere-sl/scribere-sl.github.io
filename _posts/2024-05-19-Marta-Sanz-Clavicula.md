@@ -4,7 +4,7 @@ title: "Marta Sanz, <i>Clavícula</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-05-19
 feature_image: images/posts/clavicula.jpg
-tags: [Marta Sanz, La Magrana, autobiografía]
+tags: [Marta Sanz, Anagrama, autobiografía]
 ---
 «Escribo de lo que me duele»
 <!--more-->

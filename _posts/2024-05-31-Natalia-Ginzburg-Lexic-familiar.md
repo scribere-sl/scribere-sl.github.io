@@ -9,7 +9,7 @@ tags: [Natalia Ginzburg, Ático Libros, novela, El Club de la Tribu]
 «Calia tornar a triar les paraules, tornar a escrutar-les per sentir si eren falses o autentiques, si tenien arrels de debò en nosaltres o si només tenien les arrels efímeres de la il·lusió general»
 <!--more-->
 
-🧵 En mayo en El Club de la Tribu, de Carmen G. de la Cueva, hemos leído ‘Léxico familiar’, de una de las grandes escritoras de las cosas pequeñas, Natalia Ginzburg.
+🧵 En mayo en [El Club de la Tribu](http://latribu.info/pronto-club-2024/), de Carmen G. de la Cueva, hemos leído ‘Léxico familiar’, de una de las grandes escritoras de las cosas pequeñas, Natalia Ginzburg.
 
 Nos hemos reído porque a muchas, quizá demasiado acostumbradas a lo confesional y el trauma de la autoficción femenina, el libro nos ha descolocado, hemos estado buscando al yo de la narradora, queríamos saber qué sentía, qué pensaba.
 

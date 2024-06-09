@@ -8,6 +8,7 @@ tags: [Sigrid Nunez, Navona, novela]
 ---
 «Li passa alguna cosa dolenta, al gos?»
 <!--more-->
+
 #SigridNunez #Lamic @navonaeditorial trad: #FerranRàfolsGesa #TheFriend #Elamigo #novela
 
 🐕 El millor amic i conseller literari de la narradora d’aquesta novel·la s’ha suïcidat i ella viu un dol profund que la situa, com als morts, en el temps de les coses irreals. Reflexiona sobre la literatura i el fet d’escriure, però té present la premissa de Natalia Ginzburg: “No pots esperar que escriure et consoli del dolor que sents”.

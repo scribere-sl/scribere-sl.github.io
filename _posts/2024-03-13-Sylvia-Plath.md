@@ -17,7 +17,7 @@ And it asks nothing, a name tag, a few trinkets.
 
 #SylviaPlath #Poesía #Novela #Cuentos #Dibujos #Cartesalamevamare @edicions_del_periscopi #DiarioscompletosdeSylviaPlath @AlbaEditorial #leoautoras #lovingsylviaplath
 
-🌸 En febrero, en #elclubdelatribu, leímos ‘La campana de cristal’, de Sylvia Plath. “Detrás del mito de Plath hay mucha Sylvia”, dijo @Carmengdelacueva, y me picó la curiosidad y me hice con sus diarios, las cartas a su madre y varias antologías de poemas.
+🌸 En febrero, en [#elclubdelatribu](http://latribu.info/pronto-club-2024/), leímos ‘La campana de cristal’, de Sylvia Plath. “Detrás del mito de Plath hay mucha Sylvia”, dijo @Carmengdelacueva, y me picó la curiosidad y me hice con sus diarios, las cartas a su madre y varias antologías de poemas.
 
 Teniendo presente la pena por su trágico final —ese mito, “un puto accidente”, dijo una compañera del club—, en su diario y, sobre todo, en sus cartas, aparece una Sylvia —mucha Sylvia— lúcida, alegre, optimista, rebosante de confianza, capaz de sentir amor por la vida y por todo aquello que pueda convertirse en materia prima para escribir.
 

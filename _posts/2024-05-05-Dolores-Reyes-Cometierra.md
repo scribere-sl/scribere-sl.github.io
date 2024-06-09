@@ -4,7 +4,7 @@ title: "Dolores Reyes, <i>Cometierra</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-05-05
 feature_image: images/posts/cometierra.jpg
-tags: [Dolores Reyes, Sigilio, novela]
+tags: [Dolores Reyes, Sigilio, novela, El Club de la Tribu]
 ---
 
 «Después empecé a comer tierra por otros que querían hablar. Otros, que ya se fueron»
@@ -12,7 +12,7 @@ tags: [Dolores Reyes, Sigilio, novela]
 
 #DoloresReyes #Cometierra @editorial.sigilo.espana #novela #feminicidios #leoautoras
 
-🤎 Abril ha sido el mes de ‘Cometierra’ en #elclubdelatribu de @Carmengdelacueva.
+🤎 Abril ha sido el mes de ‘Cometierra’ en [#elclubdelatribu](http://latribu.info/pronto-club-2024/) de @Carmengdelacueva.
 
 No suelo aceptar el pacto de la ficción si incluye fenómenos del más allá, pero me metí en la novela y la ficción se metió en mi mente y se hizo real, real como reales son las pesadillas.
 

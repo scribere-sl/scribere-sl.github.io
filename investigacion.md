@@ -11,12 +11,12 @@ TFM: [*La llegada de las mujeres al poder: ¿un nuevo estilo de comunicación po
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Fu0E9dVGXM?si=TQOz2lg_nQtBa2LF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Poco después me matriculé en el Programa de Doctorado en Comunicación de la UPF y, entre el 2021 y el 2023, me adentré en el estudio de la comunicación política desde un punto de vista feminista con las doctoras Cristina Perales-García ([POLCOM-GRP](https://www.upf.edu/es/web/polcom)) y Pilar Medina-Bravo ([CritiCC](https://www.upf.edu/web/criticc)). Presentamos los resultados de la investigación en el Congreso Internacional de Género y Comunicación (GENDERCOM) y en el artículo *La ética del cuidado en el Parlamento español: análisis del uso del término cuidados en el discurso político del bloque progresista*.
+Poco después me matriculé en el Programa de Doctorado en Comunicación de la UPF y, entre el 2021 y el 2023, me adentré en el estudio de la comunicación política desde un punto de vista feminista con las doctoras Cristina Perales-García ([POLCOM-GRP](https://www.upf.edu/es/web/polcom)) y Pilar Medina-Bravo ([CritiCC](https://www.upf.edu/web/criticc)). Presentamos los resultados de la investigación en el Congreso Internacional de Género y Comunicación (GENDERCOM) y en el artículo *La ética del cuidado en el Parlamento español: análisis del uso del término cuidados en el discurso político del bloque progresista* ([Feminismo/s, 44)](https://rua.ua.es/dspace/handle/10045/144701)).
 
-Presentación: [*Los* cuidados *a debate en el parlamento español. análisis del uso del término en las sesiones parlamentarias de diciembre de 2019 a junio de 2020*](https://www.youtube.com/watch?v=QJcVxylVC8A), VIII Congreso Internacional de Género y Comunicación, 2022
+Presentación: [*Los* cuidados *a debate en el parlamento español. Análisis del uso del término en las sesiones parlamentarias de diciembre de 2019 a junio de 2020*](https://www.youtube.com/watch?v=QJcVxylVC8A), VIII Congreso Internacional de Género y Comunicación, 2022
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QJcVxylVC8A?si=RuXC6k_jg98InOAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-Artículo: [De Luis-Rosell, S., Perales-García, C., y Medina-Bravo, P. (2024). La ética del cuidado en el Parlamento español: análisis del uso del término cuidados en el discurso parlamentario. Feminismo/s, 44, 396-424. https://doi.org/10.14198/fem.2024.44.14]  (https://rua.ua.es/dspace/bitstream/10045/144714/1/Feminismos_44_14.pdf)
+Artículo: [De Luis-Rosell, S., Perales-García, C., y Medina-Bravo, P. (2024). La ética del cuidado en el Parlamento español: análisis del uso del término *cuidados* en el discurso parlamentario. Feminismo/s, 44, 396-424. https://doi.org/10.14198/fem.2024.44.14](https://rua.ua.es/dspace/bitstream/10045/144714/1/Feminismos_44_14.pdf)
 

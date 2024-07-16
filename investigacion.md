@@ -20,5 +20,4 @@ Presentación: [*Los* cuidados *a debate en el parlamento español. Análisis de
 
 Artículo: [De Luis-Rosell, S., Perales-García, C., y Medina-Bravo, P. (2024). La ética del cuidado en el Parlamento español: análisis del uso del término *cuidados* en el discurso parlamentario. Feminismo/s, 44, 396-424. https://doi.org/10.14198/fem.2024.44.14](https://rua.ua.es/dspace/bitstream/10045/144714/1/Feminismos_44_14.pdf)
 
-feature_image: images/posts/Feminismos.jpg
-
+<img src="images/Feminismos.jpg" width="300">

@@ -2,7 +2,7 @@
 layout: post
 title: "Clara Queraltó, <i>Et diré R.</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
-date: 22024-06-24
+date: 2024-06-24
 feature_image: images/posts/queralto.jpg
 tags: [Clara Queraltó, Edicions 62, novela, maternidad o no]
 ---

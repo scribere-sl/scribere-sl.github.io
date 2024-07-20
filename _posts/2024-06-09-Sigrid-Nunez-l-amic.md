@@ -4,7 +4,7 @@ title: "Sigrid Nunez, <i>L'amic</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-06-09
 feature_image: images/posts/calma.jpg
-tags: [Sigrid Nunez, Navona, novela]
+tags: [Sigrid Nunez, Navona, narrativa]
 ---
 «Li passa alguna cosa dolenta, al gos?»
 <!--more-->

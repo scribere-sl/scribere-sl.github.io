@@ -4,7 +4,7 @@ title: "Natalia Ginzburg, <i>Lèxic familiar</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-05-31
 feature_image: images/posts/ginzburg.jpg
-tags: [Natalia Ginzburg, Ático Libros, novela, El Club de la Tribu]
+tags: [Natalia Ginzburg, Ático Libros, narrativa, El Club de la Tribu]
 ---
 «Calia tornar a triar les paraules, tornar a escrutar-les per sentir si eren falses o autentiques, si tenien arrels de debò en nosaltres o si només tenien les arrels efímeres de la il·lusió general»
 <!--more-->

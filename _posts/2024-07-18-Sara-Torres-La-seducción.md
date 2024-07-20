@@ -8,6 +8,7 @@ tags: [Sara Torres, Reservoir, narrativa]
 ---
 «Para llegar a su deseo he de ser yo también capaz de escribir una historia»
 <!--more-->
+
 💦 Compré esta novela hace unos meses, cuando salió, pero la dejé en mi estantería para poder leerla en el momento adecuado. Y la miraba e imaginaba el momento de estar en el mar con el libro y, sin saberlo, en esa espera, me iba sumergiendo en la seducción.
 
 ‘La seducción’ es una novela sobre la espera y la prisa ante el encuentro, sobre la gestión de la pulsión, sobre la comunicación ante el deseo.

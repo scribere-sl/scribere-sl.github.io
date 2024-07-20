@@ -2,7 +2,7 @@
 layout: post
 title: "Sara Torres, <i>La seducción</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
-date: 2024-06-09
+date: 2024-07-18
 feature_image: images/posts/saratorres.jpg
 tags: [Sara Torres, Reservoir, narrativa]
 ---

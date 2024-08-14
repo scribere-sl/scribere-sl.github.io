@@ -3,7 +3,7 @@ layout: post
 title: "Beatrice Salvioni, <i>La Malnada</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-07-28
-feature_image: images/posts/malnada.jpeg
+feature_image: images/posts/malnada.jpg
 tags: [Beatrice Salvioni, Edicions del Periscopi, narrativa]
 ---
 «Però la Mare de Déu també era dona, segur que m’entendria»

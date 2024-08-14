@@ -9,6 +9,7 @@ tags: [Beatrice Salvioni, Edicions del Periscopi, narrativa]
 «Però la Mare de Déu també era dona, segur que m’entendria»
 <!--more-->
 
+
 🍒 Aquesta és la història d’amistat de dues nenes a la Itàlia de la dictadura de Mussolini. La Francesca, d’una família de clase mitjana, veu la Maddalena, una nena mig bruixa a qui tothom anomena Malnada, i s’hi sent atreta magnèticament.
 
 Per guanyar-se la seva amistat s’empassa pinyols de cirera, s’esguinça la pell de cames i braços cabriolant per camins insòlits i s’embruta els vestits de fang del riu. El seu agermanament neix entre la sang, la sorra i l’aigua bruta: desproveïdes de les convencions i els ornaments d’un món en el qual no encaixen, es troben, se senten a prop, s’esmorteeixen les pesantors, encaixen.

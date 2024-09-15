@@ -4,7 +4,7 @@ title: "Rebecca Solnit, <i>Records de la meva inexistència</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-09-15
 feature_image: images/posts/solnit.jpg
-tags: [Rebecca Solnit, Angle Editrial, feminismo]
+tags: [Rebecca Solnit, Angle Editorial, feminismo]
 ---
 «“La mort d’una dona bonica és, sense cap mena de dubte, el tema més poètic del món”, va dir Edgar Allan Poe, que no es devia haver plantejat la qüestió des del punt de vista de les dones que prefereixen viure. Jo procurava no ser el tema de la poesia dels altres (...) Lluitar per trobar una poesia que celebri la supervivència i no la destrucció»
 

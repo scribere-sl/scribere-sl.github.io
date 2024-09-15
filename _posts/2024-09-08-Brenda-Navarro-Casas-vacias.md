@@ -3,7 +3,7 @@ layout: post
 title: "Brenda Navarro, <i>Casas vacías</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-09-08
-feature_image: images/posts/casasvacías.jpg
+feature_image: images/posts/casasvacias.jpg
 tags: [Brenda Navarro, Sexto Piso Editorial, narrativa, maternidad o no]
 ---
 «Mientras nosotras mirábamos confundidas e impávidas, porque eso era lo que había que hacer: ser las casas vacías para albergar la vida o la muerte, pero al fin y al cabo, vacías»

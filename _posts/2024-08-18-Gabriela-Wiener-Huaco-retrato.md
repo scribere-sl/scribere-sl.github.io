@@ -2,7 +2,7 @@
 layout: post
 title: "Gabriela Wiener, <i>Huaco retrato</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
-date: 2024-08-11
+date: 2024-08-18
 feature_image: images/posts/huacoretrato.jpg
 tags: [Gabriela Wiener, Random House, narrativa]
 ---

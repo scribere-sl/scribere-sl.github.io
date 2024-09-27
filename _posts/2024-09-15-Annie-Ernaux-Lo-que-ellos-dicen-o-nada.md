@@ -2,7 +2,7 @@
 layout: post
 title: "Annie Ernaux, <i>Lo que ellos dicen o nada</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
-date: 2024-09-08
+date: 2024-09-15
 feature_image: images/posts/ellosdicen.jpg
 tags: [Annie Ernaux, Cabaret Voltaire, narrativa]
 ---

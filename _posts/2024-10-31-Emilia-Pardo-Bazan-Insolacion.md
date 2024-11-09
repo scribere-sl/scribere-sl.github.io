@@ -2,7 +2,7 @@
 layout: post
 title: "Emilia Pardo Bazán, <i>Insolación</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
-date: 31-10-2024
+date: 2024-10-31
 feature_image: images/posts/insolacion.jpg
 tags: [Emilia Pardo Bazán, Cátedra, narrativa, El Club de la Tribu]
 ---

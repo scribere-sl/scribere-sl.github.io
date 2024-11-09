@@ -2,7 +2,7 @@
 layout: post
 title: "María Sonia Cristoff, <i>Desubicados</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
-date: 2024-10-23
+date: 2024-10-13
 feature_image: images/posts/desubicados.jpg
 tags: [María Sonia Cristoff, Editorial Minúscula, narrativa]
 ---

@@ -4,7 +4,7 @@ title: "Jane Smiley, <i>La edad del desconsuelo</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2020-11-14
 feature_image: images/posts/2020-11-14-125244744_225295189012977_2287733462081116645_n_17885975458784503.jpg
-tags: [Jane Smiley, Editorial Sexto Piso, narrativa]
+tags: [Jane Smiley, Sexto Piso, narrativa]
 ---
 
 «Vengo observando que en los congresos, los dentistas discuten mucho por pequeños detalles. A mí lo que me gustaría es que mi mujer me quisiera»

@@ -4,7 +4,7 @@ title: "Paula Fox, <i>Personajes desesperados</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-03-24
 feature_image: images/posts/personajesdesesperados.jpg
-tags: [Paula Fox, Sexto Piso Editorial, narrativa]
+tags: [Paula Fox, Sexto Piso, narrativa]
 ---
 
 «Aparenta una gran tolerancia al mundo, mantiene la calma, no se mete en nada. Yo creo que nadie puede ser así de verdad: o te desesperas y te frustras o lo vuelcas todo en la estética, la política, la sociología del sexo o lo que sea»

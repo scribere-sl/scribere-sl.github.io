@@ -3,7 +3,7 @@ layout: post
 title: "Irene Montero, <i>Algo habremos hecho</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-12-15
-feature_image: images/posts/Montero.jpg
+feature_image: images/posts/Montero.png
 tags: [Irene Montero, Navona, narrativa, feminismo]
 ---
 «la importancia que tiene en nuestras vidas militar, organizarse y luchar juntas hasta cambiar todo lo que tiene que ser cambiado»

@@ -2,7 +2,7 @@
 layout: post
 title: "Imma Monsó, <i>La mestra i la Bèstia</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
-date: 2023-09-10
+date: 2024-12-27
 feature_image: images/posts/2023-09-10-376838057_270324649256207_302430686693976573_n_18020190871731910.heic
 tags: [Imma Monsó, Anagrama, narrativa]
 ---
@@ -11,6 +11,8 @@ tags: [Imma Monsó, Anagrama, narrativa]
 <!--more-->
 
 #ImmaMonsó #LamestrailaBèstia #anagramaeditor #LamaestraylaBestia #novela #leoautoras #llegirencatalà
+
+Hemos cerrado #elclubdelatribu de @Carmengdelacueva del 2024 con 'La mestra i la Bèstia' / 'La maestra y la Bestia', de Imma Monsó.
 
 🕶 En un ambient en què sura de manera espectral el règim franquista, caracteritzat pel silenci i la por d’arrencar a parlar, la Severina viu absorta en els petits plaers quotidians i en la lectura. Malgrat la seva vocació d’aïllament i la seva natura solitària, sent que necessita ser d’un poble i decideix anar a fer de mestra a Dusa, on se li resisteix la convivència amb el grup i on ha de superar la condició d’intrusa.
 

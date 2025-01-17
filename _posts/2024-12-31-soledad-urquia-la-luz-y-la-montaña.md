@@ -3,7 +3,7 @@ layout: post
 title: "Soledad Urquía, <i>La luz y la montaña</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2024-12-31
-feature_image: images/posts/luzymontaña.jpeg
+feature_image: images/posts/luzymontana.jpeg
 tags: [Soledad Urquía, Las Afueras, narrativa]
 ---
 

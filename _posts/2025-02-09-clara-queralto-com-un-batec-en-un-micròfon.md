@@ -3,7 +3,7 @@ layout: post
 title: "Clara Queraltó, <i>Com un batec en un micròfon</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-02-09
-feature_image: images/posts/queralto.jpg
+feature_image: images/posts/Queralto.png
 tags: [Clara Queraltó, Anagrama, narrativa]
 ---
 «Després em va acostar l’orella al pit, buscant el batec del cor.»

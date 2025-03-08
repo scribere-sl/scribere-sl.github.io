@@ -3,7 +3,7 @@ layout: post
 title: "Annie Ernaux, <i>La dona gelada</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-01-26
-feature_image: images/posts/donagelada.jpg
+feature_image: images/posts/Donagelada.jpg
 tags: [Annie Ernaux, Angle Editorial, narrativa]
 ---
 «Deu anys després, soc jo qui em trobo en una cuina relluent i silenciosa, les maduixes i la farina, he entrat en l’escena i em podreixo»

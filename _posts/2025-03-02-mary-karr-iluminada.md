@@ -3,7 +3,7 @@ layout: post
 title: "Mary Karr, <i>Iluminada</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-03-02
-feature_image: images/posts/Iluminada.png
+feature_image: images/posts/Iluminada.jpg
 tags: [Mary Karr, Errata Naturae, narrativa]
 ---
 «las palabras me definirían, gobernarían y determinarían. Las palabras garantizaban mi entrega»

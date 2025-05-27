@@ -8,6 +8,7 @@ tags: [Simone Weil, Hermida Editores, ensayo]
 ---
 «El deseo es un impulso del pensamiento hacia el futuro. Un futuro que no encierra nada deseable es imposible»
 <!--more-->
+
 #SimoneWeil #Eldeseo @hermidaeditores #JoséLuisPiquero (trad.) #leoautoras #ensayo
 
 🌹 Estoy deseando mucho. Se me acelera la mente y la imaginación se me lleva, el cuerpo la sigue. El cuerpo está vivo. Sé que cuando deseo mi deseo habla solo de mí, no de lo que deseo.

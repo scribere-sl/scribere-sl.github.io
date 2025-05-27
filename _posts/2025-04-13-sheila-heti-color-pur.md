@@ -7,6 +7,7 @@ feature_image: images/posts/Colorpur.jpeg
 tags: [Sheila Heti, Errata Naturae, narrativa]
 ---
 «Hi ha vuit mil milions de persones, al món, i a totes els ha tocat la loteria. I el pitjor de tot és que ningú se n’adona! No s’adonen que tenen una oportunitat única d’observar l’univers»
+
 <!--more-->
 #SheilaHeti #Colorpur @angle_editorial @maria.bosom (trad.) #PureColour #Colorpuro #leoautoras
 

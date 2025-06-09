@@ -4,7 +4,7 @@ title: "Annie Ernaux, <i>Mira las luces, amor mío</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-03-30
 feature_image: images/posts/Supermercado.jpeg
-tags: [Anny Ernaux, Cabaret Voltaire]
+tags: [Annie Ernaux, Cabaret Voltaire]
 ---
 «Lo que no tiene valor en la vida no lo tiene tampoco para la literatura […] Ver para escribir es ver de otra manera. Es distinguir objetos, individuos, mecanismos y otorgarles valor de existencia.»
 <!--more-->

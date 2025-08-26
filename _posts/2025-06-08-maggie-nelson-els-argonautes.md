@@ -3,7 +3,7 @@ layout: post
 title: "Maggie Nelson, <i>Els argonautes</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-06-08
-feature_image: images/posts/MaggieSmith.jpeg
+feature_image: images/posts/Argonautes.jpeg
 tags: [Maggie Nelson, L'Altra Editorial, ensayo]
 ---
 «Barthes explica que el subjecte que pronuncia la frase “T’estimo” és com “l’Argonauta que va renovant el vaixell al llarg del viatge sense canviar-li mai el nom”. De la mateixa manera que les parts de l’‘Argo’ es poden anar canviant amb el temps però el vaixell continua dient-se ‘Argo’, cada vegada que l’enamorat pronuncia la frase “T’estimo”, el significat s’ha de renovar, perquè la “veritable tasca de l’amor i del llenguatge és donar a la mateixa frase inflexions sempre noves”»

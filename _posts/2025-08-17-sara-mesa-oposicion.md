@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paulina Flores, <i>La próxima vez que te vea, te mato</i>"
+title: "Sara Mesa, <i>Oposición</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-08-17
 feature_image: images/posts/Oposicion.jpeg

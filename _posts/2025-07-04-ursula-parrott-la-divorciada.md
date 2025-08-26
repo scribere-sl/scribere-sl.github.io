@@ -4,7 +4,7 @@ title: "Ursula Parrot, <i>La divorciada</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-07-04
 feature_image: images/posts/Divorciada.jpeg
-tags: [Ursula Parrot, Gato Pardo Ediciones, novelo]
+tags: [Ursula Parrot, Gato Pardo Ediciones, novela]
 ---
 «Creo que soy un interesante ejemplo de mujer soltera que anda por la ciudad, víctima de la nueva libertad que se me ha impuesto, me guste o no»
 <!--more-->

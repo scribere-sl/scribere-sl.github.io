@@ -3,7 +3,7 @@ layout: post
 title: "Carmen Martín Gaite, <i>Caperucita en Manhattan</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-06-01
-feature_image: images/posts/Caperucita.png.png
+feature_image: images/posts/Caperucita.png
 tags: [Carmen Martín Gaite, Siruela, novela]
 ---
 «Para mí vivir es no tener prisa, contemplar las cosas»

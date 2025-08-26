@@ -4,7 +4,7 @@ title: "Paulina Flores, <i>La próxima vez que te vea, te mato</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-08-10
 feature_image: images/posts/PaulinaFlores.jpeg
-tags: [Paulina Flores, Gato Pardo Ediciones, novelo]
+tags: [Paulina Flores, Gato Pardo Ediciones, novela]
 ---
 «¿Cómo podía tener tan poca fe en el mundo y, al mismo tiempo, tantas ganas de salir a su encuentro?»
 <!--more-->

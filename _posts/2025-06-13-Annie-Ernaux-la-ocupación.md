@@ -3,7 +3,7 @@ layout: post
 title: "Annie Ernaux, <i>La ocupación</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-06-13
-feature_image: images/posts/Ocupación.png
+feature_image: images/posts/Ocupacion.png
 tags: [Annie Ernaux, Cabaret Voltaire, novela]
 ---
 «La dignidad o la indignidad de mi conducta, de mis deseos, es algo que no me planteé en aquella ocasión, como tampoco lo hago ahora al escribir. A veces pienso que creer en esta ausencia es la manera más segura de alcanzar la verdad.»

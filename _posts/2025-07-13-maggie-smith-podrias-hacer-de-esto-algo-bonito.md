@@ -4,7 +4,7 @@ title: "Maggie Smith, <i>Podrías hacer de esto algo bonito</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-07-13
 feature_image: images/posts/MaggieSmith.jpeg
-tags: [Maggie Smith, Gato Pardo Ediciones, autoficción]
+tags: [Maggie Smith, Libros del Asteroide, autoficción]
 ---
 «No soy la mitad de nada. Lo que soy es singular. Un todo.»
 

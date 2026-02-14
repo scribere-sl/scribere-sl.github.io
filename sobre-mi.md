@@ -3,7 +3,7 @@ layout: page
 title: Sobre mí
 permalink: "/"
 #description: TODO
-#feature_image: images/sobre-mi.jpg
+#feature_image: images/bib NY.jpg
 ---
 <img src="images/sobre-mi.jpg" width="300">
 

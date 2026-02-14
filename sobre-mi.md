@@ -3,9 +3,9 @@ layout: page
 title: Sobre mí
 permalink: "/"
 #description: TODO
-#feature_image: images/bib NY2.jpg
+#feature_image: images/bib NY2.JPG
 ---
-<img src="images/bib NY2.jpg" width="300">
+<img src="images/bib NY2.JPG" width="300">
 
 Sonia de Luis Rosell. Me gradué en Filología Hispánica en la Universidad de Barcelona en el 2011 con premio extraordinario de grado y en el 2012 cursé en la misma universidad el Máster de Léxico y Comunicación Lingüística, en el que obtuve el premio extraordinario de máster. 
 

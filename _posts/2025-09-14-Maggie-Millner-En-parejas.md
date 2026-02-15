@@ -2,7 +2,7 @@
 layout: post
 title: "Maggie Millner, <i>En parejas</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
-date: 2018-12-24
+date: 2025-09-14
 feature_image: images/posts/Entreparejas.jpeg
 tags: [Maggie Millner, Navona, ENM]
 ---

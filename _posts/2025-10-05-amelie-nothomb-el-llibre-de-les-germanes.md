@@ -3,7 +3,7 @@ layout: post
 title: "Amélie Nothomb, <i>El llibre de les germanes</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-10-05
-feature_image: images/posts/2022-11-25-317117113_472802438169159_8035053445869837669_n_17984680009725177.webp
+feature_image: images/posts/Nothomb.png
 tags: [Amélie Nothomb, Anagrama, narrativa]
 ---
 

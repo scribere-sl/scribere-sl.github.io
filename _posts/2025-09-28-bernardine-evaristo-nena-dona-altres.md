@@ -3,7 +3,7 @@ layout: post
 title: "Bernardine Evaristo, <i>Nena, dona, altres</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-09-28
-feature_image: images/posts/Armariosvacios.jpeg
+feature_image: images/posts/Evaristo.png
 tags: [Bernardine Evaristo, Segona Perifèria, novela]
 ---
 «la vida és una aventura que t’has de fer teva amb la ment oberta i el cor ple d’amor»

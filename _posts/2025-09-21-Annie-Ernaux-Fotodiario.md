@@ -3,7 +3,7 @@ layout: post
 title: "Annie Ernaux, <i>Escribir la vida: Fotodiario</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-09-21
-feature_image: images/posts/Armariosvacios.jpeg
+feature_image: images/posts/Fotodiario.png
 tags: [Annie Ernaux, Cabaret Voltaire, novela]
 ---
 «Escribir no es para mí un sustituto del amor, sino algo más que el amor o que la vida»

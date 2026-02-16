@@ -3,7 +3,7 @@ layout: post
 title: "Molly Roden Winter, <i>¡Más! Memorias de un matrimonio abierto</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2026-02-15
-feature_image: images/posts/Entreparejas.jpeg
+feature_image: images/posts/Mas.png
 tags: [Molly Roden Winter, Gato Pardo Ediciones, ENM]
 ---
 «Habrá más amor. Porque el amor es inmenso. Abundante. Infinito, de hecho. Y el secreto es este: el amor engendra amor»

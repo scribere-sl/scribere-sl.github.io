@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Annie Ernaux, <i>Una mujer y No  he salido de mi noche</i>
+title: "Annie Ernaux, <i>Una mujer y No  he salido de mi noche</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2025-11-19
 feature_image: images/posts/Ernaux2.jpeg

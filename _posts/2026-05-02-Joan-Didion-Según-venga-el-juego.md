@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Joan Didion, <i>Según venga el juego</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."

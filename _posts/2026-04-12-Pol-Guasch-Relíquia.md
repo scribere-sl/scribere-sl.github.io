@@ -3,7 +3,7 @@ layout: post
 title: "Pol Guasch, <i>Relíquia</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2026-04-12
-feature_image: images/posts/reliquia.png
+feature_image: images/posts/reliquia.jpeg
 tags: [Pol Guasch, Anagrama]
 ---
 «Ja devies saber que un llarg silenci, al final, també és un lloc on descansar, una zona on els altres escullen les paraules amb què et voldran recordar»

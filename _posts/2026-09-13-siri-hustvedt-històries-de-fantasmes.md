@@ -9,9 +9,6 @@ tags: [Siri Hustvedt, Edicions 62]
 «És possible conservar bombolles de felicitat mentre la tristesa m’embolcalla? Sembla que cal intentar-ho»
 <!--more-->
 
-#KateZambreno #Derivas @launarota #Drifts #MontseMeneses (trad.)
-
-
 #SiriHustvedt #Històriesdefantasmes @grup62_ #GhostStories #JordiMartínLloret (trad.) #Historiasdefantasmas
  
  

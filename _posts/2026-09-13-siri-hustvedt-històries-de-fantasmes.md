@@ -3,7 +3,7 @@ layout: post
 title: "Siri Hustvedt, <i>Històries de fantasmes</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2026-09-13
-feature_image: images/posts/fantasmes.jpeg
+feature_image: images/posts/fantasma.png
 tags: [Siri Hustvedt, Edicions 62]
 ---
 «És possible conservar bombolles de felicitat mentre la tristesa m’embolcalla? Sembla que cal intentar-ho»

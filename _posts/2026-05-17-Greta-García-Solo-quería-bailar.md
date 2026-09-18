@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Greta García, <i>Solo quería bailar</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."

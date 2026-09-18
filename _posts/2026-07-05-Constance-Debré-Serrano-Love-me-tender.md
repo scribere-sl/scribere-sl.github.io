@@ -2,7 +2,7 @@
 layout: post
 title: "Constance Debré, <i>Love me tender</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
-date: 2026-05-07
+date: 2026-07-05
 feature_image: images/posts/oxigeno.jpeg
 tags: [Constance, Alpha Decay]
 ---

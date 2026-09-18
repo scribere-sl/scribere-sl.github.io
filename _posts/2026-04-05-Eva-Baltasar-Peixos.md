@@ -3,7 +3,7 @@ layout: post
 title: "Eva Baltasar, <i>Peixos</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2026-04-05
-feature_image: images/posts/peixos.png
+feature_image: images/posts/peixos.jpeg
 tags: [Eva Baltasar, Club Editor, novela]
 ---
 «He contret l’amor com qui contreu un deute, no puc negar-lo, no puc anar-me’n sense pagar el doble del seu valor»

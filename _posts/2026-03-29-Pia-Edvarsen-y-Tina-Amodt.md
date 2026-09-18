@@ -3,7 +3,7 @@ layout: post
 title: "Pia Edvardsen y Tina Amodt"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2026-03-29
-feature_image: images/posts/niña.png
+feature_image: images/posts/niña.jpeg
 tags: [Pia Edvardsen, Tina Amodt, Consonni, Tránsito editorial]
 ---
 «¿Quién soy yo, quién puedo ser, si no tengo un lenguaje sobre mí misma?»

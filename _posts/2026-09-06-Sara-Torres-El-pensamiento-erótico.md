@@ -3,7 +3,7 @@ layout: post
 title: "Sara Torres, <i>El pensamiento erótico</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2026-09-06
-feature_image: images/posts/erótico.jpeg
+feature_image: images/posts/erotico.png
 tags: [Sara Torres, Reservoir, ensayo]
 ---
 «El amor erótico, puesto en práctica, crea conciencia, una “conciencia de alegría” que amplía el repertorio de lo vivible ampliando por tanto el deseo de vivir»

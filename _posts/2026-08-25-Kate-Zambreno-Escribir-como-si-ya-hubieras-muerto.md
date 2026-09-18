@@ -3,7 +3,7 @@ layout: post
 title: "Kate Zambreno, <i>Escribir como si ya hubieras muerto</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2026-08-25
-feature_image: images/posts/muerta.png
+feature_image: images/posts/muerta.jpeg
 tags: [Kate Zambreno, La uña rota]
 ---
 «No creo que la narradora sea la autora. No creo que yo sea la narradora. Aunque a veces tampoco estoy segura de ser la autora. Después de publicar un libro me vacío de tal manera, estoy tan fuera de él, que ni siquiera sé si puedo hacer comentarios al respecto. No estoy segura de quién soy yo en realidad. La obra pasa a ser del lector para que escriba en ella; ya no sé si tiene algo que ver conmigo»

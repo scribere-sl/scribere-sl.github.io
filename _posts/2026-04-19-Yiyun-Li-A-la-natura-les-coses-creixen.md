@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Yiyun Li, <i>A la natura les coses creixen</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."

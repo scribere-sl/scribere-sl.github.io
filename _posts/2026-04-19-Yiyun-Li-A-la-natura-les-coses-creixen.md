@@ -3,7 +3,7 @@ layout: post
 title: "Yiyun Li, <i>A la natura les coses creixen</i>"
 description: "Reseñas de libros: No termines los #libros que no te gustan. I els #llibres que t'agraden llegeix-los tants cops com calgui."
 date: 2026-04-19
-feature_image: images/posts/reliquia.jpeg
+feature_image: images/posts/natura.jpeg
 tags: [Yiyun Li, L'Altra Editorial, ensayo]
 ---
 «em va preguntar sense embuts: “Tu entens el patiment i escrius molt bé sobre el patiment: ¿com és que ens vas parir?”. Una pregunta per a la qual no he trobat mai una bona resposta»
